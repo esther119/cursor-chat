@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Parse .specstory/history/*.md files and generate timeline data for visualization.
+Parse .chat_history/*.md files and generate timeline data for visualization.
 """
 
 import os
@@ -30,7 +30,7 @@ except ImportError:
 class SpecHistoryParser:
     def __init__(
         self,
-        history_dir: str = "../.specstory/history",
+        history_dir: str = "../chat_history/",
         use_openai: bool = True,
         openai_model: str = "gpt-4o-mini",
     ):
@@ -320,6 +320,7 @@ class SpecHistoryParser:
     def parse_all_files(self) -> Dict:
         """Parse all history files and generate timeline data."""
         # Get all .md files
+        print("self.history_dir", self.history_dir)
         md_files = sorted(self.history_dir.glob("*.md"))
 
         print(f"Found {len(md_files)} history files to parse...")
@@ -413,8 +414,8 @@ def main():
     )
     argp.add_argument(
         "--history-dir",
-        default="../.specstory/history",
-        help="Directory containing SpecStory .md files",
+        default="../chat_history/",
+        help="Directory containing .md files",
     )
     argp.add_argument(
         "--output",
