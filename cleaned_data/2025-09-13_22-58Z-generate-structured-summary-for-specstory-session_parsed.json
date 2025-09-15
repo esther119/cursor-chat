@@ -1,0 +1,17 @@
+{
+  "file_path": ".specstory/history/2025-09-13_22-58Z-generate-structured-summary-for-specstory-session.md",
+  "main_timestamp": "2025-09-13 22:58Z",
+  "title": "Generate structured summary for SpecStory session",
+  "conversations": [
+    {
+      "type": "user",
+      "timestamp": "2025-09-13 12:50Z",
+      "content": "You are an expert product analyst for software engineering sessions. Given the content of a single SpecStory session (extracted from a markdown conversation), produce a structured summary.\n\nOutput STRICT JSON with keys: category, title, preview. No extra fields, comments, or prose.\n\nRequirements:\n\ncategory: choose exactly one from {plan, codegen, refactor, debug, feature, review, meta, config}.\n• plan: questions about approach/strategy/design\n• codegen: requests to create/implement/add/build/integrate code\n• refactor: improvements/renames/reorg/cleanup\n• debug: errors/why/fix/bug/problem\n• feature: change/update/allow/adjust/show/trigger/selecting\n• review: explain/critique/understand/code review\n• meta: git/commit/merge/branch/CI\n• config: inputs/parameters/settings/configuration requirements\n\ntitle: Title Case, specific and action-oriented. If the user asks a question, convert to a clear, descriptive title.\n\npreview: One short sentence summarizing the user’s ask or the task outcome. ≤ 120 chars. No markdown.\n\nReturn format:\n{\"category\":\"...\",\"title\":\"...\",\"preview\":\"...\"}"
+    },
+    {
+      "type": "assistant",
+      "content": "{\"category\":\"feature\",\"title\":\"Add Mirrored Extra Triangle Across Wall Centerline\",\"preview\":\"Implemented a mirrored triangle based on the original's position.\"}"
+    }
+  ],
+  "all_todo_lists": []
+}

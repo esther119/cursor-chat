@@ -1,0 +1,17 @@
+{
+  "file_path": ".specstory/history/2025-09-13_20-26Z-delete-latest-unpushed-commit-in-git.md",
+  "main_timestamp": "2025-09-13 20:26Z",
+  "title": "Delete latest unpushed commit in Git",
+  "conversations": [
+    {
+      "type": "user",
+      "timestamp": "2025-09-13 12:50Z",
+      "content": "how to delete the latest commit that i've not pushed to remote"
+    },
+    {
+      "type": "assistant",
+      "content": "---\n\n### Delete your latest local commit (not pushed)\n\nPick one option depending on whether you want to keep the changes:\n\n- **Keep changes staged**\n```bash\ngit reset --soft HEAD~1\n```\n\n- **Keep changes but unstaged (default)**\n```bash\ngit reset HEAD~1\n```\n\n- **Discard the commit and its changes**\n```bash\ngit reset --hard HEAD~1\n```\n\nOptional safety check (confirm it isn’t pushed yet; replace `main` if needed):\n```bash\ngit log --oneline origin/main..HEAD\n```\n\nIf you change your mind, you can recover via:\n```bash\ngit reflog\ngit reset --hard <commit_hash_before_reset>\n```"
+    }
+  ],
+  "all_todo_lists": []
+}
