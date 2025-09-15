@@ -18,7 +18,7 @@ try:
     load_dotenv()
 except ImportError:
     # If python-dotenv not installed, try to load manually
-    env_path = Path(__file__).parent.parent / ".env"
+    env_path = Path(__file__).parent / ".env"
     if env_path.exists():
         with open(env_path) as f:
             for line in f:
@@ -30,7 +30,7 @@ except ImportError:
 class SpecHistoryParser:
     def __init__(
         self,
-        history_dir: str = "../chat_history/",
+        history_dir: str = "chat_history/",
         use_openai: bool = True,
         openai_model: str = "gpt-4o-mini",
     ):
@@ -52,18 +52,100 @@ class SpecHistoryParser:
                 "color": "#3B82F6",  # blue
                 "priority": 1,
             },
-            "codegen": {
+            "codegen:ui": {
                 "keywords": [
-                    "create",
-                    "implement",
-                    "add",
-                    "build",
-                    "integrate",
-                    "generate",
-                    "construct",
+                    "ui",
+                    "component",
+                    "modal",
+                    "button",
+                    "form",
+                    "layout",
+                    "responsive",
+                    "style",
+                    "css",
+                    "animation",
                 ],
                 "color": "#10B981",  # green
                 "priority": 2,
+            },
+            "codegen:core": {
+                "keywords": [
+                    "algorithm",
+                    "logic",
+                    "data structure",
+                    "state machine",
+                    "engine",
+                    "core",
+                    "model",
+                ],
+                "color": "#059669",  # dark green
+                "priority": 3,
+            },
+            "codegen:infra": {
+                "keywords": [
+                    "api",
+                    "database",
+                    "schema",
+                    "auth",
+                    "authentication",
+                    "queue",
+                    "worker",
+                    "infrastructure",
+                ],
+                "color": "#047857",  # darker green
+                "priority": 4,
+            },
+            "codegen:integration": {
+                "keywords": [
+                    "integrate",
+                    "connect",
+                    "third-party",
+                    "service",
+                    "library",
+                    "checkout",
+                    "payment",
+                ],
+                "color": "#065F46",  # darkest green
+                "priority": 5,
+            },
+            "codegen:tooling": {
+                "keywords": [
+                    "script",
+                    "tool",
+                    "cli",
+                    "command",
+                    "dev tool",
+                    "tooling",
+                    "automation",
+                ],
+                "color": "#34D399",  # light green
+                "priority": 6,
+            },
+            "codegen:tests": {
+                "keywords": [
+                    "test",
+                    "jest",
+                    "unit test",
+                    "integration test",
+                    "testing",
+                    "spec",
+                    "coverage",
+                ],
+                "color": "#6EE7B7",  # lighter green
+                "priority": 7,
+            },
+            "codegen:experiment": {
+                "keywords": [
+                    "try",
+                    "experiment",
+                    "prototype",
+                    "explore",
+                    "proof of concept",
+                    "poc",
+                    "spike",
+                ],
+                "color": "#A7F3D0",  # lightest green
+                "priority": 8,
             },
             "refactor": {
                 "keywords": [
@@ -76,7 +158,7 @@ class SpecHistoryParser:
                     "move",
                 ],
                 "color": "#8B5CF6",  # purple
-                "priority": 3,
+                "priority": 9,
             },
             "debug": {
                 "keywords": [
@@ -90,20 +172,7 @@ class SpecHistoryParser:
                     "syntax error",
                 ],
                 "color": "#F59E0B",  # yellow
-                "priority": 4,
-            },
-            "feature": {
-                "keywords": [
-                    "change",
-                    "update",
-                    "allow",
-                    "adjust",
-                    "selecting",
-                    "trigger",
-                    "show",
-                ],
-                "color": "#EC4899",  # pink
-                "priority": 5,
+                "priority": 10,
             },
             "review": {
                 "keywords": [
@@ -112,14 +181,15 @@ class SpecHistoryParser:
                     "explain",
                     "critique",
                     "code review",
+                    "reading",
                 ],
                 "color": "#F97316",  # orange
-                "priority": 6,
+                "priority": 11,
             },
             "meta": {
-                "keywords": ["commit", "git", "merge", "abort", "branch"],
+                "keywords": ["commit", "git", "merge", "abort", "branch", "ci", "cd"],
                 "color": "#6366F1",  # indigo
-                "priority": 7,
+                "priority": 12,
             },
             "config": {
                 "keywords": [
@@ -128,9 +198,36 @@ class SpecHistoryParser:
                     "requirements",
                     "settings",
                     "configure",
+                    "environment",
+                    "library configuration",
                 ],
                 "color": "#06B6D4",  # cyan
-                "priority": 8,
+                "priority": 13,
+            },
+            "docs": {
+                "keywords": [
+                    "documentation",
+                    "readme",
+                    "docs",
+                    "document",
+                    "writing",
+                    "updating documentation",
+                ],
+                "color": "#EC4899",  # pink
+                "priority": 14,
+            },
+            "analysis": {
+                "keywords": [
+                    "profiling",
+                    "metrics",
+                    "logging",
+                    "performance",
+                    "measuring",
+                    "analyze",
+                    "benchmark",
+                ],
+                "color": "#14B8A6",  # teal
+                "priority": 15,
             },
         }
 
@@ -143,28 +240,43 @@ class SpecHistoryParser:
     ) -> Optional[Dict[str, str]]:
         """Use OpenAI to produce {category,title,preview}. Returns None on failure."""
         if not self.use_openai:
+            print("use_openai is False, skipping OpenAI for ", filename)
             return None
 
         # Lazy import to avoid hard dependency if flag not used
         try:
             import openai  # type: ignore
         except Exception:
+            print("Failed to import openai package")
             return None
 
         api_key = os.getenv("OPENAI_API_KEY")
         if not api_key:
+            print("No OPENAI_API_KEY environment variable found")
             return None
 
         system_prompt = (
             "You are an expert product analyst for software engineering sessions. Given the content of a single "
             "SpecStory session (extracted from a markdown conversation), produce a structured summary.\n\n"
             "Output STRICT JSON with keys: category, title, preview. No extra fields, comments, or prose.\n\n"
-            "Requirements:\n- category: choose exactly one from {plan, codegen, refactor, debug, feature, review, meta, config}.\n"
-            "  • plan: questions about approach/strategy/design\n  • codegen: requests to create/implement/add/build/integrate code\n"
-            "  • refactor: improvements/renames/reorg/cleanup\n  • debug: errors/why/fix/bug/problem\n  • feature: change/update/allow/adjust/show/trigger/selecting\n"
-            "  • review: explain/critique/understand/code review\n  • meta: git/commit/merge/branch/CI\n  • config: inputs/parameters/settings/configuration requirements\n"
+            "Requirements:\n- category: choose exactly one from {plan, codegen:ui, codegen:core, codegen:infra, codegen:integration, codegen:tooling, codegen:tests, codegen:experiment, refactor, debug, review, meta, config, docs, analysis}.\n"
+            "  • plan: design/strategy/architecture discussions\n"
+            "  • codegen:ui: implementing new UI elements, components, or visual behavior\n"
+            "  • codegen:core: writing core logic, data structures, state machines, algorithms\n"
+            "  • codegen:infra: building infrastructure code (APIs, DB schemas, auth, jobs, queues)\n"
+            "  • codegen:integration: connecting existing systems, services, or libraries\n"
+            "  • codegen:tooling: writing dev tooling, scripts, or CLIs\n"
+            "  • codegen:tests: writing new unit/integration tests\n"
+            "  • codegen:experiment: prototyping something uncertain or new for exploration\n"
+            "  • refactor: cleanup, reorg, renaming\n"
+            "  • debug: fixing bugs or diagnosing issues\n"
+            "  • review: reading, explaining, critiquing code\n"
+            "  • meta: git, branches, merges, CI/CD\n"
+            "  • config: project/environment/library configuration\n"
+            "  • docs: writing or updating documentation\n"
+            "  • analysis: profiling, metrics, logging, measuring performance\n"
             "- title: Title Case, specific and action-oriented. If the user asks a question, convert to a clear, descriptive title.\n"
-            "- preview: One short sentence summarizing the user’s ask or the task outcome. ≤ 120 chars. No markdown.\n\n"
+            "- preview: One short sentence summarizing the user's ask or the task outcome. ≤ 120 chars. No markdown.\n\n"
             'Return format:\n{"category":"...","title":"...","preview":"..."}'
         )
 
@@ -209,10 +321,11 @@ class SpecHistoryParser:
 
             # Normalize category
             if data["category"] not in self.categories.keys():
-                data["category"] = "codegen"
+                data["category"] = "codegen:core"
 
             return data
         except Exception:
+            print("Exception in _categorize_with_openai")
             return None
 
     def parse_filename(self, filename: str) -> Tuple[datetime, str]:
@@ -259,8 +372,8 @@ class SpecHistoryParser:
                 "high" if max_score >= 3 else "medium" if max_score >= 1 else "low"
             )
         else:
-            # Default to 'codegen' if no clear match
-            category = "codegen"
+            # Default to 'codegen:core' if no clear match
+            category = "codegen:core"
             confidence = "low"
 
         return category, confidence
@@ -320,7 +433,6 @@ class SpecHistoryParser:
     def parse_all_files(self) -> Dict:
         """Parse all history files and generate timeline data."""
         # Get all .md files
-        print("self.history_dir", self.history_dir)
         md_files = sorted(self.history_dir.glob("*.md"))
 
         print(f"Found {len(md_files)} history files to parse...")
@@ -338,16 +450,16 @@ class SpecHistoryParser:
                 ai_summary = self._categorize_with_openai(
                     filepath.name, timestamp, content, title
                 )
-                if ai_summary:
-                    print(
-                        f'ai_summary - category: {ai_summary["category"]}, title: {ai_summary["title"]}, preview: {ai_summary["preview"]}'
-                    )
+
                 if ai_summary:
                     category = ai_summary["category"]
                     resolved_title = ai_summary["title"]
                     preview = ai_summary["preview"]
                     # Confidence from AI path defaults to high
                     confidence = "high"
+                    print(
+                        f'ai_summary - category: {ai_summary["category"]}, title: {ai_summary["title"]}, preview: {ai_summary["preview"]}'
+                    )
                 else:
                     category, confidence = self.categorize_session(title, content)
                     resolved_title = title
@@ -414,13 +526,13 @@ def main():
     )
     argp.add_argument(
         "--history-dir",
-        default="../chat_history/",
+        default="chat_history/",
         help="Directory containing .md files",
     )
     argp.add_argument(
         "--output",
-        default="../public/timeline-data.json",
-        help="Output JSON path (defaults to public/timeline-data.json)",
+        default="frontend/public/timeline-data.json",
+        help="Output JSON path (defaults to frontend/public/timeline-data.json)",
     )
     argp.add_argument(
         "--also-write-local",
@@ -471,6 +583,7 @@ def main():
     # Save to primary output (typically public/timeline-data.json)
     output_path = Path(args.output)
     output_path.parent.mkdir(parents=True, exist_ok=True)
+    print("writing to", output_path)
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(json_str)
 

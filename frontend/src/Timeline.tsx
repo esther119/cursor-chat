@@ -202,7 +202,7 @@ const CategoryLegend: React.FC<CategoryLegendProps> = ({
 }: CategoryLegendProps) => {
   const sortedCategories = Object.entries(categories)
     .filter(([_, stats]) => stats.sessions > 0)
-    .sort(([_, a], [__, b]) => b.duration - a.duration);
+    .sort(([a], [b]) => a.localeCompare(b));
 
   return (
     <div className="category-legend">

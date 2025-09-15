@@ -1,48 +1,48 @@
 {
   "sessions": [
     {
-      "category": "codegen",
+      "category": "codegen:integration",
       "title": "Integrate P5.js Code Into React Application",
       "startTime": "2025-08-31T20:52:00Z",
       "confidence": "high",
       "filename": "2025-08-31_20-52Z-integrate-p5-js-code-into-react.md",
-      "preview": "User seeks guidance on incorporating P5.js code into a React app.",
+      "preview": "Guide on incorporating P5.js sketch into a React component.",
       "duration": 22
     },
     {
-      "category": "feature",
-      "title": "Change Static Ball Color to Black",
+      "category": "codegen:ui",
+      "title": "Change Static Ball Color To Black",
       "startTime": "2025-08-31T21:14:00Z",
       "confidence": "high",
       "filename": "2025-08-31_21-14Z-change-static-ball-color-to-black.md",
-      "preview": "Request to change the color of the static ball to fully black.",
+      "preview": "Update the static ball's color to fully black.",
       "duration": 88
     },
     {
       "category": "refactor",
-      "title": "Change Wall Naming to Mirror in Code",
+      "title": "Change All Wall Naming to Mirror",
       "startTime": "2025-08-31T22:42:00Z",
       "confidence": "high",
       "filename": "2025-08-31_22-42Z-change-wall-naming-to-mirror.md",
-      "preview": "Update all instances of 'wall' in the code to 'mirror'.",
+      "preview": "Update the codebase to replace 'wall' with 'mirror' in naming.",
       "duration": 4
     },
     {
       "category": "refactor",
-      "title": "Change Wall Naming to Mirror in Code",
+      "title": "Change All Wall Naming to Mirror",
       "startTime": "2025-08-31T22:46:00Z",
       "confidence": "high",
       "filename": "2025-08-31_22-46Z-change-wall-naming-to-mirror.md",
-      "preview": "Update all instances of 'wall' in the code to 'mirror'.",
+      "preview": "Update the codebase to replace 'wall' with 'mirror' in naming.",
       "duration": 2
     },
     {
-      "category": "plan",
+      "category": "codegen:core",
       "title": "Implement Light Reflection from Triangle to Eye",
       "startTime": "2025-08-31T22:48:00Z",
       "confidence": "high",
       "filename": "2025-08-31_22-48Z-implementing-light-reflection-from-triangle.md",
-      "preview": "User seeks ideas for implementing light reflection from a triangle to a wall and then to the eye.",
+      "preview": "Explore methods to simulate light reflection from a triangle to a wall and then to an observer's eye.",
       "duration": 29
     },
     {
@@ -65,11 +65,11 @@
     },
     {
       "category": "refactor",
-      "title": "Clean Code for Uniform Triangle Sizes",
+      "title": "Refactor Code for Uniform Triangle Sizes",
       "startTime": "2025-09-01T00:10:00Z",
       "confidence": "high",
       "filename": "2025-09-01_00-10Z-clean-code-for-uniform-triangle-sizes.md",
-      "preview": "Refactor the code to ensure all triangles have the same size.",
+      "preview": "Clean up the code to ensure all triangles have the same size.",
       "duration": 56
     },
     {
@@ -78,25 +78,25 @@
       "startTime": "2025-09-01T01:06:00Z",
       "confidence": "high",
       "filename": "2025-09-01_01-06Z-improve-variable-naming-conventions.md",
-      "preview": "Rename variables to startPoint, reflectionPoint, and endPoint for clarity.",
+      "preview": "Refactor variable names to be more descriptive and meaningful.",
       "duration": 223
     },
     {
-      "category": "feature",
-      "title": "Trigger Rayrunner Only On Pure Red Triangle Click",
+      "category": "codegen:ui",
+      "title": "Trigger Rayrunner On Click Of Pure Red Triangle",
       "startTime": "2025-09-01T04:49:00Z",
       "confidence": "high",
       "filename": "2025-09-01_04-49Z-trigger-rayrunner-on-triangle-click.md",
-      "preview": "User wants to limit rayrunner activation to clicks on a specific object.",
+      "preview": "Implement rayrunner activation on clicking the red triangle object.",
       "duration": 27
     },
     {
-      "category": "debug",
-      "title": "Investigate Duplicate AngleReflectionPath Files",
+      "category": "analysis",
+      "title": "Understanding Duplicate AngleReflectionPath Files",
       "startTime": "2025-09-01T05:16:00Z",
       "confidence": "high",
       "filename": "2025-09-01_05-16Z-why-two-anglereflectionpath-files.md",
-      "preview": "User seeks to understand the reason for having two AngleReflectionPath files.",
+      "preview": "Exploring the reason for having two AngleReflectionPath files in the project.",
       "duration": 1
     },
     {
@@ -109,25 +109,25 @@
       "duration": 20
     },
     {
-      "category": "codegen",
+      "category": "codegen:core",
       "title": "Create File for New Types Including AngleReflectionPath",
       "startTime": "2025-09-01T05:37:00Z",
       "confidence": "high",
       "filename": "2025-09-01_05-37Z-create-file-for-new-types.md",
-      "preview": "Create a new file to define and include AngleReflectionPath type.",
+      "preview": "Create a new file to define types, including AngleReflectionPath.",
       "duration": 240
     },
     {
-      "category": "feature",
+      "category": "analysis",
       "title": "Determine Shooting Angle for Rayrunner",
       "startTime": "2025-09-01T16:26:00Z",
       "confidence": "high",
       "filename": "2025-09-01_16-26Z-finding-the-shooting-angle-for-rayrunner.md",
-      "preview": "User seeks to find the shooting angle for the rayrunner.",
+      "preview": "Calculating the optimal shooting angle for the rayrunner.",
       "duration": 7
     },
     {
-      "category": "refactor",
+      "category": "codegen:ui",
       "title": "Remove Extra Triangles From Design",
       "startTime": "2025-09-01T16:33:00Z",
       "confidence": "high",
@@ -141,52 +141,52 @@
       "startTime": "2025-09-01T16:38:00Z",
       "confidence": "high",
       "filename": "2025-09-01_16-38Z-make-commit-to-light-game-mechanism-branch.md",
-      "preview": "User seeks guidance on committing changes to a specific branch.",
+      "preview": "User seeks guidance on committing to a specific branch.",
       "duration": 53
     },
     {
-      "category": "codegen",
+      "category": "codegen:core",
       "title": "Create Circle Object With Radius 15",
       "startTime": "2025-09-01T17:31:00Z",
       "confidence": "high",
       "filename": "2025-09-01_17-31Z-create-circle-object-with-radius-15.md",
-      "preview": "Generate a circle object centered at the red triangle with no filling.",
+      "preview": "Implement a circle object centered at the red triangle with no filling.",
       "duration": 240
     },
     {
-      "category": "codegen",
-      "title": "Store Multiple Values in UseState Hook",
+      "category": "codegen:core",
+      "title": "Store Multiple Values in useState Hook",
       "startTime": "2025-09-01T21:55:00Z",
       "confidence": "high",
       "filename": "2025-09-01_21-55Z-store-values-in-usestate.md",
-      "preview": "Implement useState to store startPoint, reflectionPoint, endPoint, and virtualEnd.",
+      "preview": "Implement useState to manage startPoint, reflectionPoint, endPoint, and virtualEnd.",
       "duration": 7
     },
     {
-      "category": "feature",
-      "title": "Understand The DrawProgress Method",
+      "category": "codegen:core",
+      "title": "Explain The DrawProgress Method Functionality",
       "startTime": "2025-09-01T22:02:00Z",
       "confidence": "high",
       "filename": "2025-09-01_22-02Z-understanding-the-drawprogress-method.md",
-      "preview": "User seeks clarification on the functionality of the drawProgress method.",
+      "preview": "Clarification on the workings of the drawProgress method.",
       "duration": 38
     },
     {
       "category": "debug",
-      "title": "Fix Mirror Width Not Updating to 800",
+      "title": "Fix Mirror Width Adjustment Issue",
       "startTime": "2025-09-01T22:40:00Z",
       "confidence": "high",
       "filename": "2025-09-01_22-40Z-adjusting-mirror-width-issue.md",
-      "preview": "User is experiencing an issue where mirror width remains at 400 instead of 800.",
+      "preview": "Diagnosing why mirror width setting is not applying correctly.",
       "duration": 0
     },
     {
-      "category": "config",
+      "category": "plan",
       "title": "Define Input Requirements for SingleMirror",
       "startTime": "2025-09-01T22:40:00Z",
       "confidence": "high",
       "filename": "2025-09-01_22-40Z-singlemirror-input-requirements.md",
-      "preview": "SingleMirror should accept a single input for position or triangle.",
+      "preview": "Establish the input parameters for SingleMirror, focusing on position or triangle.",
       "duration": 7
     },
     {
@@ -199,21 +199,21 @@
       "duration": 5
     },
     {
-      "category": "feature",
+      "category": "codegen:ui",
       "title": "Allow Position Input for SingleMirror in Triangle",
       "startTime": "2025-09-01T22:52:00Z",
       "confidence": "high",
       "filename": "2025-09-01_22-52Z-allow-position-input-for-singlemirror.md",
-      "preview": "Enable position input for SingleMirror within a triangle.",
+      "preview": "Implement position input functionality for SingleMirror component.",
       "duration": 67
     },
     {
-      "category": "feature",
+      "category": "codegen:core",
       "title": "Implement ComputeReflectionRayToTheEyes for Mirror2",
       "startTime": "2025-09-01T23:59:00Z",
       "confidence": "high",
       "filename": "2025-09-01_23-59Z-return-computereflectionraytotheeyes-for-mirror2.md",
-      "preview": "Add functionality to compute reflection ray for mirror2.",
+      "preview": "Add functionality to compute reflection rays for mirror2.",
       "duration": 19
     },
     {
@@ -222,7 +222,7 @@
       "startTime": "2025-09-02T00:18:00Z",
       "confidence": "high",
       "filename": "2025-09-02_00-18Z-refactor-complex-code-for-clarity.md",
-      "preview": "User requests a refactor to simplify complex code for better understanding.",
+      "preview": "Simplify complex code to enhance readability and understanding.",
       "duration": 74
     },
     {
@@ -231,66 +231,66 @@
       "startTime": "2025-09-02T01:32:00Z",
       "confidence": "high",
       "filename": "2025-09-02_01-32Z-refactor-code-for-mirror-triangles.md",
-      "preview": "User seeks to improve the code for generating mirror triangles.",
+      "preview": "User seeks to improve code for generating multiple mirror triangles.",
       "duration": 3
     },
     {
-      "category": "codegen",
+      "category": "codegen:core",
       "title": "Compute Light Reflection Route Between Mirrors",
       "startTime": "2025-09-02T01:35:00Z",
       "confidence": "high",
       "filename": "2025-09-02_01-35Z-compute-light-reflection-route-between-mirrors.md",
-      "preview": "Provide a code structure to calculate light reflection paths between mirrors.",
+      "preview": "Develop a method to calculate light paths between mirrors.",
       "duration": 240
     },
     {
-      "category": "feature",
+      "category": "codegen:core",
       "title": "Add Variable For Dashline Setting",
       "startTime": "2025-09-02T15:41:00Z",
       "confidence": "high",
       "filename": "2025-09-02_15-41Z-add-variable-for-dashline-setting.md",
-      "preview": "Introduce a variable to toggle dashline display for the last runner.",
+      "preview": "Implement a variable to toggle dashline rendering for the last runner.",
       "duration": 16
     },
     {
       "category": "refactor",
-      "title": "Refactor Code to Utilize ReflectionPath2D",
+      "title": "Refactor Code To Utilize ReflectionPath2D",
       "startTime": "2025-09-02T15:57:00Z",
       "confidence": "high",
       "filename": "2025-09-02_15-57Z-refactor-code-to-use-reflectionpath2d.md",
-      "preview": "Refactor the code to maximize the use of reflectionPath2D functions.",
+      "preview": "Refactor the code to maximize the use of ReflectionPath2D.",
       "duration": 5
     },
     {
-      "category": "feature",
+      "category": "codegen:ui",
       "title": "Add Triangle Location Input for TwoMirrors Component",
       "startTime": "2025-09-02T16:02:00Z",
       "confidence": "high",
       "filename": "2025-09-02_16-02Z-add-triangle-location-input-for-twomirrors.md",
-      "preview": "Implement an input for specifying triangle location in the TwoMirrors component.",
+      "preview": "Implement an input field for specifying triangle location in the TwoMirrors component.",
       "duration": 53
     },
     {
-      "category": "feature",
-      "title": "Determine ReflectionPath2D Compatibility with Mirrors",
+      "category": "analysis",
+      "title": "Evaluate ReflectionPath2D Functionality for Multiple Mirrors",
       "startTime": "2025-09-02T16:55:00Z",
       "confidence": "high",
       "filename": "2025-09-02_16-55Z-reflectionpath2d-for-mirrors.md",
-      "preview": "User asks if reflectionPath2D works for 1 or 3 mirrors.",
+      "preview": "Assess if reflectionPath2D supports 1 or 3 mirrors effectively.",
       "duration": 240
     },
     {
       "category": "refactor",
-      "title": "Refactor Function to Use Pos as a Parameter Only",
+      "title": "Refactor Parameters to Use Pos Only",
       "startTime": "2025-09-02T22:50:00Z",
       "confidence": "high",
       "filename": "2025-09-02_22-50Z-use-pos-as-a-parameter-only.md",
-      "preview": "Update the function to accept only pos as a parameter, with others in the constructor.",
+      "preview": "Change method to accept only pos as a parameter, others defined in the constructor.",
       "duration": 18
     },
     {
       "category": "refactor",
-      "title": "Change Position of Vector and Update Related Code",
+      "title": "Change Position of a Vector and Update Related Code",
       "startTime": "2025-09-02T23:08:00Z",
       "confidence": "high",
       "filename": "2025-09-02_23-08Z-change-the-position-of-a-vector.md",
@@ -298,53 +298,53 @@
       "duration": 0
     },
     {
-      "category": "feature",
+      "category": "codegen:core",
       "title": "Construct Mirror Object From Position Vector",
       "startTime": "2025-09-02T23:08:00Z",
       "confidence": "high",
       "filename": "2025-09-02_23-08Z-construct-mirror-object-from-position-vector.md",
-      "preview": "Create a mirror object using a specified position vector.",
+      "preview": "Create a mirror object using a given position vector.",
       "duration": 18
     },
     {
-      "category": "feature",
-      "title": "Change Constructor to Accept Pos Input",
+      "category": "refactor",
+      "title": "Change Constructor to Accept Position Input",
       "startTime": "2025-09-02T23:26:00Z",
       "confidence": "high",
       "filename": "2025-09-02_23-26Z-change-constructor-to-accept-pos-input.md",
-      "preview": "Update the constructor to accept a pos input instead of x and y.",
+      "preview": "Update the constructor to take a position input instead of separate x and y values.",
       "duration": 15
     },
     {
-      "category": "feature",
+      "category": "codegen:core",
       "title": "Use Vector As Input For Triangle",
       "startTime": "2025-09-02T23:41:00Z",
       "confidence": "high",
       "filename": "2025-09-02_23-41Z-use-vector-as-input-for-triangle.md",
-      "preview": "Implement vector input functionality for the Triangle.",
+      "preview": "Implement vector input functionality for the Triangle module.",
       "duration": 25
     },
     {
-      "category": "feature",
-      "title": "Calculate Virtual Object Location Based On Mirror",
+      "category": "analysis",
+      "title": "Calculate Virtual Object Location Based On Triangle and Mirror",
       "startTime": "2025-09-03T00:06:00Z",
       "confidence": "high",
       "filename": "2025-09-03_00-06Z-calculate-virtual-object-location.md",
-      "preview": "Calculate the location of a virtual object using a triangle and mirror.",
+      "preview": "Determine the position of a virtual object using geometric principles.",
       "duration": 240
     },
     {
-      "category": "feature",
-      "title": "Determine The Center Of A Mirror",
+      "category": "analysis",
+      "title": "Determine The Center Of The Mirror",
       "startTime": "2025-09-03T05:02:00Z",
       "confidence": "high",
       "filename": "2025-09-03_05-02Z-finding-the-center-of-a-mirror.md",
-      "preview": "User asks for the method to find the center of a mirror.",
+      "preview": "Analyzing the method to find the center of a mirror.",
       "duration": 11
     },
     {
-      "category": "codegen",
-      "title": "Implement Reflect Point Across Line by Angle Function",
+      "category": "codegen:core",
+      "title": "Implement Reflect Point Across Line By Angle Function",
       "startTime": "2025-09-03T05:13:00Z",
       "confidence": "high",
       "filename": "2025-09-03_05-13Z-reflect-point-across-a-line-by-angle.md",
@@ -357,7 +357,7 @@
       "startTime": "2025-09-04T19:25:00Z",
       "confidence": "high",
       "filename": "2025-09-04_19-25Z-fixing-python-syntax-error-in-script.md",
-      "preview": "Resolve a SyntaxError related to line continuation in Python code.",
+      "preview": "Diagnosed and resolved a SyntaxError in the Python script.",
       "duration": 15
     },
     {
@@ -366,7 +366,7 @@
       "startTime": "2025-09-04T19:40:00Z",
       "confidence": "high",
       "filename": "2025-09-04_19-40Z-code-critique-for-lightgame-project.md",
-      "preview": "Requesting a critique of the code for the Lightgame project.",
+      "preview": "Providing feedback and suggestions on the lightgame code implementation.",
       "duration": 80
     },
     {
@@ -375,34 +375,34 @@
       "startTime": "2025-09-04T21:00:00Z",
       "confidence": "high",
       "filename": "2025-09-04_21-00Z-how-to-abort-a-merge.md",
-      "preview": "User seeks guidance on aborting a merge in Git.",
+      "preview": "Instructions on aborting a merge in version control.",
       "duration": 240
     },
     {
-      "category": "feature",
-      "title": "Show Only X and Y Coordinates for Object Position",
+      "category": "codegen:ui",
+      "title": "Display Only X and Y Coordinates for Object Position",
       "startTime": "2025-09-07T21:25:00Z",
       "confidence": "high",
       "filename": "2025-09-07_21-25Z-show-object-position-coordinates.md",
-      "preview": "Modify the display to show only the x and y coordinates.",
+      "preview": "Implement UI to show only the x and y coordinates of the object position.",
       "duration": 5
     },
     {
-      "category": "codegen",
-      "title": "Add Code for Reflecting Objects Across Multiple Mirrors",
+      "category": "codegen:core",
+      "title": "Implement Code for Reflecting Across Multiple Mirrors",
       "startTime": "2025-09-07T21:30:00Z",
       "confidence": "high",
       "filename": "2025-09-07_21-30Z-add-code-for-mirror-reflections.md",
-      "preview": "Implement code to reflect objects across n mirrors.",
+      "preview": "Add functionality to reflect objects across multiple mirrors.",
       "duration": 27
     },
     {
       "category": "refactor",
-      "title": "Improve Mirror Code to Allow Variable Locations",
+      "title": "Improve Mirror Code to Support Variable Locations",
       "startTime": "2025-09-07T21:57:00Z",
       "confidence": "high",
       "filename": "2025-09-07_21-57Z-improve-mirror-code-for-variable-locations.md",
-      "preview": "Refactor mirror code to accept n mirror locations and draw them automatically.",
+      "preview": "Refactor mirror code to allow n mirror locations and add virtual triangles with a single color.",
       "duration": 26
     },
     {
@@ -411,11 +411,11 @@
       "startTime": "2025-09-07T22:23:00Z",
       "confidence": "high",
       "filename": "2025-09-07_22-23Z-why-is-the-virtual-triangle-lighter.md",
-      "preview": "User is inquiring about the reason for the lighter color of a virtual triangle.",
+      "preview": "Diagnosing the issue of a virtual triangle displaying a lighter color.",
       "duration": 13
     },
     {
-      "category": "feature",
+      "category": "codegen:ui",
       "title": "Create Labeled Grid on Canvas",
       "startTime": "2025-09-07T22:36:00Z",
       "confidence": "high",
@@ -424,34 +424,34 @@
       "duration": 35
     },
     {
-      "category": "codegen",
+      "category": "codegen:ui",
       "title": "Draw Ray Runner Using Existing Functions",
       "startTime": "2025-09-07T23:11:00Z",
       "confidence": "high",
       "filename": "2025-09-07_23-11Z-draw-ray-runner-using-existing-functions.md",
-      "preview": "Request to create a ray runner by reusing existing codebase functions.",
+      "preview": "Implement the ray runner visualization by reusing existing codebase functions.",
       "duration": 240
     },
     {
       "category": "refactor",
-      "title": "Refactor Animation Code Into New Function",
+      "title": "Extract Animation Logic Into New Function",
       "startTime": "2025-09-08T23:30:00Z",
       "confidence": "high",
       "filename": "2025-09-08_23-30Z-refactor-animation-into-a-new-function.md",
-      "preview": "User requests to encapsulate part of animation logic into a new function.",
+      "preview": "Refactor the animation code by encapsulating it in a new function.",
       "duration": 14
     },
     {
-      "category": "feature",
-      "title": "Allow User Selection of Virtual Triangle Positions",
+      "category": "plan",
+      "title": "Explore Selection Methods For Virtual Triangle Positions",
       "startTime": "2025-09-08T23:44:00Z",
       "confidence": "high",
       "filename": "2025-09-08_23-44Z-selecting-virtual-triangle-positions.md",
-      "preview": "Explore ideas for enabling user selection of virtual triangle positions.",
+      "preview": "Discuss ideas for allowing users to select virtual triangle positions.",
       "duration": 20
     },
     {
-      "category": "feature",
+      "category": "codegen:ui",
       "title": "Change Input for VirtualTriangles Component",
       "startTime": "2025-09-09T00:04:00Z",
       "confidence": "high",
@@ -461,11 +461,11 @@
     },
     {
       "category": "refactor",
-      "title": "Refactor Selection And Hover Process Into Separate File",
+      "title": "Refactor Selection and Hover Process into Separate File",
       "startTime": "2025-09-09T00:12:00Z",
       "confidence": "high",
       "filename": "2025-09-09_00-12Z-refactor-selection-and-hover-process.md",
-      "preview": "User requests to refactor the selection and hover process into a new file.",
+      "preview": "Separate the selection and hover process into a new file for better code organization.",
       "duration": 29
     },
     {
@@ -474,16 +474,16 @@
       "startTime": "2025-09-09T00:41:00Z",
       "confidence": "high",
       "filename": "2025-09-09_00-41Z-refactor-interaction-manager-for-cleaner-code.md",
-      "preview": "Move drawing virtual triangle and hover/select process to a separate file.",
+      "preview": "Move drawing and hover/select processes to a separate Interaction Manager file.",
       "duration": 240
     },
     {
-      "category": "codegen",
+      "category": "codegen:infra",
       "title": "Create File to Fetch Data from SpecStory History",
       "startTime": "2025-09-13T19:27:00Z",
       "confidence": "high",
       "filename": "2025-09-13_19-27Z-create-file-to-fetch-data.md",
-      "preview": "User requests a file to fetch data from specstory/history.",
+      "preview": "Implement a file in cursor-history to retrieve data from specstory/history.",
       "duration": 37
     },
     {
@@ -492,7 +492,7 @@
       "startTime": "2025-09-13T20:04:00Z",
       "confidence": "high",
       "filename": "2025-09-13_20-04Z-implement-the-proposed-plan.md",
-      "preview": "User requests to execute the outlined plan.",
+      "preview": "Executing the outlined strategy for project implementation.",
       "duration": 5
     },
     {
@@ -501,16 +501,16 @@
       "startTime": "2025-09-13T20:09:00Z",
       "confidence": "high",
       "filename": "2025-09-13_20-09Z-implement-the-proposed-plan.md",
-      "preview": "User requests to implement the outlined plan.",
+      "preview": "Executing the outlined strategy for project implementation.",
       "duration": 12
     },
     {
       "category": "plan",
-      "title": "Implement The Plan",
+      "title": "Implement The Proposed Plan",
       "startTime": "2025-09-13T20:21:00Z",
       "confidence": "high",
       "filename": "2025-09-13_20-21Z-implement-the-plan.md",
-      "preview": "User requests to execute the outlined plan.",
+      "preview": "Executing the outlined strategy for project development.",
       "duration": 3
     },
     {
@@ -519,7 +519,7 @@
       "startTime": "2025-09-13T20:24:00Z",
       "confidence": "high",
       "filename": "2025-09-13_20-24Z-implement-the-plan.md",
-      "preview": "User requests to execute the outlined plan.",
+      "preview": "Executing the outlined strategy for project development.",
       "duration": 2
     },
     {
@@ -528,20 +528,20 @@
       "startTime": "2025-09-13T20:26:00Z",
       "confidence": "high",
       "filename": "2025-09-13_20-26Z-delete-latest-unpushed-commit-in-git.md",
-      "preview": "Instructions on removing the most recent local commit.",
+      "preview": "Instructions for removing the most recent local commit.",
       "duration": 15
     },
     {
       "category": "debug",
-      "title": "Resolve Untracked Files Before Merge",
+      "title": "Resolve Merge Conflict Due To Untracked Files",
       "startTime": "2025-09-13T20:41:00Z",
       "confidence": "high",
       "filename": "2025-09-13_20-41Z-how-to-remove-an-item.md",
-      "preview": "User encounters errors due to untracked files during a merge.",
+      "preview": "User seeks guidance on removing untracked files before merging.",
       "duration": 84
     },
     {
-      "category": "feature",
+      "category": "codegen:ui",
       "title": "Add Pie Chart for Time Spent by Category",
       "startTime": "2025-09-13T22:05:00Z",
       "confidence": "high",
@@ -559,21 +559,21 @@
       "duration": 2
     },
     {
-      "category": "meta",
-      "title": "Summarize My Role and Activities",
+      "category": "docs",
+      "title": "Summarize Role and Activities",
       "startTime": "2025-09-13T22:17:00Z",
       "confidence": "high",
       "filename": "2025-09-13_22-17Z-summarize-my-role-and-activities.md",
-      "preview": "Request to summarize the user's role and activities.",
+      "preview": "Create a summary of my role and activities in the project.",
       "duration": 3
     },
     {
       "category": "plan",
-      "title": "Create System Prompt for OpenAI API",
+      "title": "Develop System Prompt for OpenAI API",
       "startTime": "2025-09-13T22:20:00Z",
       "confidence": "high",
       "filename": "2025-09-13_22-20Z-plan-system-prompt-for-open-ai-api.md",
-      "preview": "Plan the process for writing a system prompt for the OpenAI API.",
+      "preview": "Plan the creation of a system prompt for the OpenAI API.",
       "duration": 6
     },
     {
@@ -587,29 +587,29 @@
     },
     {
       "category": "plan",
-      "title": "Plan To Incorporate Data Into Timeline Format",
+      "title": "Incorporate Data Into Timeline Format",
       "startTime": "2025-09-13T22:26:00Z",
       "confidence": "high",
       "filename": "2025-09-13_22-26Z-incorporate-data-into-timeline-format.md",
-      "preview": "Develop a strategy to integrate data into the timeline-data.json format.",
+      "preview": "Develop a plan to integrate data into the timeline-data.json format.",
       "duration": 5
     },
     {
-      "category": "review",
+      "category": "docs",
       "title": "Explain The Importance Of Caching",
       "startTime": "2025-09-13T22:31:00Z",
       "confidence": "high",
       "filename": "2025-09-13_22-31Z-why-caching-is-important.md",
-      "preview": "User requests an explanation of why caching is important.",
+      "preview": "Discuss the benefits and significance of caching in software systems.",
       "duration": 7
     },
     {
-      "category": "feature",
+      "category": "plan",
       "title": "Implement AI Model Prompts for Categorization",
       "startTime": "2025-09-13T22:38:00Z",
       "confidence": "high",
       "filename": "2025-09-13_22-38Z-using-ai-model-prompts-for-categorization.md",
-      "preview": "Utilize AI model prompts instead of keywords for categorization.",
+      "preview": "Explore using AI model prompts instead of keywords for categorization.",
       "duration": 3
     },
     {
@@ -618,7 +618,7 @@
       "startTime": "2025-09-13T22:41:00Z",
       "confidence": "high",
       "filename": "2025-09-13_22-41Z-fix-code-and-openai-integration-issue.md",
-      "preview": "User needs assistance to resolve an OpenAI integration problem in their code.",
+      "preview": "Diagnosing and resolving the OpenAI integration problem in the code.",
       "duration": 17
     },
     {
@@ -627,7 +627,7 @@
       "startTime": "2025-09-13T22:58:00Z",
       "confidence": "high",
       "filename": "2025-09-13_22-58Z-generate-structured-summary-for-specstory-session.md",
-      "preview": "Create a structured JSON summary from a SpecStory session.",
+      "preview": "Create a JSON summary for a SpecStory session.",
       "duration": 4
     },
     {
@@ -636,12 +636,12 @@
       "startTime": "2025-09-13T23:02:00Z",
       "confidence": "high",
       "filename": "2025-09-13_23-02Z-generate-data-structure-for-chat-logs.md",
-      "preview": "Outline the approach to create a Python file for chat log data structure.",
+      "preview": "Outline the approach to create a Python data structure for chat logs.",
       "duration": 24
     },
     {
-      "category": "codegen",
-      "title": "Modify Code to Parse Multiple Files",
+      "category": "codegen:core",
+      "title": "Modify Code To Parse Multiple Files",
       "startTime": "2025-09-13T23:26:00Z",
       "confidence": "high",
       "filename": "2025-09-13_23-26Z-change-code-to-parse-multiple-files.md",
@@ -649,7 +649,7 @@
       "duration": 16
     },
     {
-      "category": "feature",
+      "category": "codegen:core",
       "title": "Exclude Empty Files From JSON Parsing",
       "startTime": "2025-09-13T23:42:00Z",
       "confidence": "high",
@@ -658,68 +658,86 @@
       "duration": 8
     },
     {
-      "category": "feature",
-      "title": "Clarify Status Determination Process",
+      "category": "analysis",
+      "title": "Understanding Status Determination Process",
       "startTime": "2025-09-13T23:50:00Z",
       "confidence": "high",
       "filename": "2025-09-13_23-50Z-how-is-the-status-determined.md",
-      "preview": "User seeks to understand how the status is decided in the system.",
+      "preview": "Explaining how the status is decided in the system.",
       "duration": 30
     }
   ],
   "totalDuration": 3696,
   "categories": {
     "plan": {
-      "duration": 86,
-      "percentage": 2.3,
-      "sessions": 9,
+      "duration": 87,
+      "percentage": 2.4,
+      "sessions": 11,
       "color": "#3B82F6"
     },
-    "codegen": {
-      "duration": 1309,
-      "percentage": 35.4,
+    "codegen:ui": {
+      "duration": 538,
+      "percentage": 14.6,
       "sessions": 10,
       "color": "#10B981"
     },
+    "codegen:core": {
+      "duration": 1163,
+      "percentage": 31.5,
+      "sessions": 14,
+      "color": "#059669"
+    },
+    "codegen:infra": {
+      "duration": 37,
+      "percentage": 1.0,
+      "sessions": 1,
+      "color": "#047857"
+    },
+    "codegen:integration": {
+      "duration": 22,
+      "percentage": 0.6,
+      "sessions": 1,
+      "color": "#065F46"
+    },
     "refactor": {
-      "duration": 772,
-      "percentage": 20.9,
+      "duration": 782,
+      "percentage": 21.2,
       "sessions": 17,
       "color": "#8B5CF6"
     },
     "debug": {
-      "duration": 132,
-      "percentage": 3.6,
-      "sessions": 7,
+      "duration": 131,
+      "percentage": 3.5,
+      "sessions": 6,
       "color": "#F59E0B"
     },
-    "feature": {
-      "duration": 983,
-      "percentage": 26.6,
-      "sessions": 22,
-      "color": "#EC4899"
-    },
     "review": {
-      "duration": 87,
-      "percentage": 2.4,
-      "sessions": 2,
+      "duration": 80,
+      "percentage": 2.2,
+      "sessions": 1,
       "color": "#F97316"
     },
     "meta": {
-      "duration": 320,
-      "percentage": 8.7,
-      "sessions": 6,
+      "duration": 317,
+      "percentage": 8.6,
+      "sessions": 5,
       "color": "#6366F1"
     },
-    "config": {
-      "duration": 7,
-      "percentage": 0.2,
-      "sessions": 1,
-      "color": "#06B6D4"
+    "docs": {
+      "duration": 10,
+      "percentage": 0.3,
+      "sessions": 2,
+      "color": "#EC4899"
+    },
+    "analysis": {
+      "duration": 529,
+      "percentage": 14.3,
+      "sessions": 6,
+      "color": "#14B8A6"
     }
   },
   "metadata": {
-    "generated": "2025-09-15T15:28:02.016323",
+    "generated": "2025-09-15T16:41:58.789825",
     "totalSessions": 74,
     "timeRange": {
       "start": "2025-08-31T20:52:00Z",
