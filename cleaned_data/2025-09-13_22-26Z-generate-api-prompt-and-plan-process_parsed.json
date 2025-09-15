@@ -1,0 +1,12 @@
+{
+  "file_path": ".specstory/history/2025-09-13_22-26Z-generate-api-prompt-and-plan-process.md",
+  "main_timestamp": "2025-09-13 22:26Z",
+  "title": "Generate api prompt and plan process",
+  "conversations": [
+    {
+      "type": "assistant",
+      "content": "I'll create a concise markdown plan in `cursor-history/openai-categorization-plan.md` with a concrete system prompt, output contract, and implementation steps, then add it to the repo.\n\n---\n\n---\n\n- I created `cursor-history/openai-categorization-plan.md` with a concrete system prompt, templates, examples, validation rules, and implementation steps.\n\n- Additions include:\n  - A strict system prompt for deriving exactly category, title, preview.\n  - Allowed category set and definitions.\n  - User message template.\n  - Output contract, examples, validation and edge cases.\n  - Steps to integrate into `parse_spechistory.py` behind a `--use-openai` flag, plus caching and QA."
+    }
+  ],
+  "all_todo_lists": []
+}

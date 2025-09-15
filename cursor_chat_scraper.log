@@ -190,3 +190,571 @@
 2025-09-04 12:58:23,231 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/917f1417cd0beb03b1993282165430c7/state.vscdb
 2025-09-04 12:58:23,231 - INFO - Exported: /Users/esther/CursorChatExports/917f1417cd0beb03b1993282165430c7_aiService.prompts_20250904-125823.md
 2025-09-04 12:58:23,231 - INFO - Scraping complete. Processed 97 workspaces, exported 93 files.
+2025-09-04 13:40:14,741 - INFO - Starting Cursor chat scraping (today only)...
+2025-09-04 13:40:14,741 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/d0813649d6647ccf56c02a77a5b87b21/state.vscdb
+2025-09-04 13:40:14,743 - INFO - Exported: /Users/esther/CursorChatExports/d0813649d6647ccf56c02a77a5b87b21_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,743 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/72fffb91ceb3543fd14425aebf01f2da/state.vscdb
+2025-09-04 13:40:14,744 - INFO - Exported: /Users/esther/CursorChatExports/72fffb91ceb3543fd14425aebf01f2da_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,745 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/d903e1922c9b26b796dcb98517f98f56/state.vscdb
+2025-09-04 13:40:14,745 - INFO - Exported: /Users/esther/CursorChatExports/d903e1922c9b26b796dcb98517f98f56_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,746 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/566607aae34ecc39547a76d4c8f92fb5/state.vscdb
+2025-09-04 13:40:14,746 - INFO - Exported: /Users/esther/CursorChatExports/566607aae34ecc39547a76d4c8f92fb5_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,747 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/9997d01580d2eea28a0f10f88448dedc/state.vscdb
+2025-09-04 13:40:14,747 - INFO - Exported: /Users/esther/CursorChatExports/9997d01580d2eea28a0f10f88448dedc_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,748 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/db850b1b4da7ce11260576103472975a/state.vscdb
+2025-09-04 13:40:14,748 - INFO - Exported: /Users/esther/CursorChatExports/db850b1b4da7ce11260576103472975a_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,749 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/491abb2e52f7303ce2b9e4fb9b7d85c9/state.vscdb
+2025-09-04 13:40:14,749 - INFO - Exported: /Users/esther/CursorChatExports/491abb2e52f7303ce2b9e4fb9b7d85c9_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,750 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c842f5d8e5a65cc23c57a0e5a957139c/state.vscdb
+2025-09-04 13:40:14,750 - INFO - Exported: /Users/esther/CursorChatExports/c842f5d8e5a65cc23c57a0e5a957139c_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,751 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/bcc689dc95111f15e64b5fc9990db7fe/state.vscdb
+2025-09-04 13:40:14,751 - INFO - Exported: /Users/esther/CursorChatExports/bcc689dc95111f15e64b5fc9990db7fe_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,751 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2888f4d6e4d367a6e406dedde7ebbc6c/state.vscdb
+2025-09-04 13:40:14,752 - INFO - Exported: /Users/esther/CursorChatExports/2888f4d6e4d367a6e406dedde7ebbc6c_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,752 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/9633413c39795c94c8ce25856c16bf09/state.vscdb
+2025-09-04 13:40:14,753 - INFO - Exported: /Users/esther/CursorChatExports/9633413c39795c94c8ce25856c16bf09_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,753 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c1847df385c17c6d725c8c3797912034/state.vscdb
+2025-09-04 13:40:14,754 - INFO - Exported: /Users/esther/CursorChatExports/c1847df385c17c6d725c8c3797912034_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,754 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/25c7834778068808587b368b2fa5d379/state.vscdb
+2025-09-04 13:40:14,754 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2d978aadb86628d409b3e19bfe52782c/state.vscdb
+2025-09-04 13:40:14,757 - INFO - Exported: /Users/esther/CursorChatExports/2d978aadb86628d409b3e19bfe52782c_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,757 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/38f4bac73b0a671e6a59a81f1b119d42/state.vscdb
+2025-09-04 13:40:14,758 - INFO - Exported: /Users/esther/CursorChatExports/38f4bac73b0a671e6a59a81f1b119d42_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,758 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/236a1fb6c4c5302c382ba1adbbdae6a8/state.vscdb
+2025-09-04 13:40:14,759 - INFO - Exported: /Users/esther/CursorChatExports/236a1fb6c4c5302c382ba1adbbdae6a8_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,759 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/6e59ee598382eefadf51329b259ace71/state.vscdb
+2025-09-04 13:40:14,760 - INFO - Exported: /Users/esther/CursorChatExports/6e59ee598382eefadf51329b259ace71_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,760 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5bee1835b68a55c14d4bc61102ab64d9/state.vscdb
+2025-09-04 13:40:14,761 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ade2f34be3195964e5aba5be4642b623/state.vscdb
+2025-09-04 13:40:14,761 - INFO - Exported: /Users/esther/CursorChatExports/ade2f34be3195964e5aba5be4642b623_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,761 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/46632a676ee27f49efb9fca6bc965071/state.vscdb
+2025-09-04 13:40:14,762 - INFO - Exported: /Users/esther/CursorChatExports/46632a676ee27f49efb9fca6bc965071_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,762 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5461424fe7eb277ee2d305d944d133a5/state.vscdb
+2025-09-04 13:40:14,763 - INFO - Exported: /Users/esther/CursorChatExports/5461424fe7eb277ee2d305d944d133a5_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,763 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/560be848e8f919daaafedfc5846e51a5/state.vscdb
+2025-09-04 13:40:14,764 - INFO - Exported: /Users/esther/CursorChatExports/560be848e8f919daaafedfc5846e51a5_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,764 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/df4cfa088c0106c2a9e986e071c9ddd9/state.vscdb
+2025-09-04 13:40:14,764 - INFO - Exported: /Users/esther/CursorChatExports/df4cfa088c0106c2a9e986e071c9ddd9_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,765 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/d79a6665345539d33cad4a85ea16a665/state.vscdb
+2025-09-04 13:40:14,765 - INFO - Exported: /Users/esther/CursorChatExports/d79a6665345539d33cad4a85ea16a665_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,765 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2ae56acafdfec175ef71f34fc34a6d36/state.vscdb
+2025-09-04 13:40:14,766 - INFO - Exported: /Users/esther/CursorChatExports/2ae56acafdfec175ef71f34fc34a6d36_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,766 - INFO - Exported: /Users/esther/CursorChatExports/2ae56acafdfec175ef71f34fc34a6d36_workbench.panel.aichat.view.aichat.chatdata_20250904-134014.md
+2025-09-04 13:40:14,767 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/dde062ab16a1b8a6beea621955f7bcfb/state.vscdb
+2025-09-04 13:40:14,769 - INFO - Exported: /Users/esther/CursorChatExports/dde062ab16a1b8a6beea621955f7bcfb_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,769 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/1a6728a167dd7d9587f3a9b3a215c8ab/state.vscdb
+2025-09-04 13:40:14,769 - INFO - Exported: /Users/esther/CursorChatExports/1a6728a167dd7d9587f3a9b3a215c8ab_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,770 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5f0f6d0f8edd78c8fee24bec5d597afd/state.vscdb
+2025-09-04 13:40:14,770 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5c93ed932deb010c8813f1c839326a3c/state.vscdb
+2025-09-04 13:40:14,771 - INFO - Exported: /Users/esther/CursorChatExports/5c93ed932deb010c8813f1c839326a3c_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,771 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5f44d3fd537575cfa5e9c3beaa267de9/state.vscdb
+2025-09-04 13:40:14,773 - INFO - Exported: /Users/esther/CursorChatExports/5f44d3fd537575cfa5e9c3beaa267de9_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,773 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2701aca0b992989000b77e5052bfa410/state.vscdb
+2025-09-04 13:40:14,773 - INFO - Exported: /Users/esther/CursorChatExports/2701aca0b992989000b77e5052bfa410_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,774 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ae64415e220c4a1ae51e01e1756d2f45/state.vscdb
+2025-09-04 13:40:14,774 - INFO - Exported: /Users/esther/CursorChatExports/ae64415e220c4a1ae51e01e1756d2f45_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,774 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2369cef4eaac67f02de8b419d7c78df1/state.vscdb
+2025-09-04 13:40:14,775 - INFO - Exported: /Users/esther/CursorChatExports/2369cef4eaac67f02de8b419d7c78df1_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,776 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2c1d8caed27fff18b7621837eb9bbda8/state.vscdb
+2025-09-04 13:40:14,776 - INFO - Exported: /Users/esther/CursorChatExports/2c1d8caed27fff18b7621837eb9bbda8_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,777 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2da6441cfb2edff94f4d90a38254cebf/state.vscdb
+2025-09-04 13:40:14,777 - INFO - Exported: /Users/esther/CursorChatExports/2da6441cfb2edff94f4d90a38254cebf_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,778 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a342eaca970d467ff831b6da85e58301/state.vscdb
+2025-09-04 13:40:14,779 - INFO - Exported: /Users/esther/CursorChatExports/a342eaca970d467ff831b6da85e58301_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,779 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/582445b9c22714ffc7386afa5986bcb3/state.vscdb
+2025-09-04 13:40:14,779 - INFO - Exported: /Users/esther/CursorChatExports/582445b9c22714ffc7386afa5986bcb3_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,779 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/6ec6ce05cd2e440faa352c699a0210fc/state.vscdb
+2025-09-04 13:40:14,780 - INFO - Exported: /Users/esther/CursorChatExports/6ec6ce05cd2e440faa352c699a0210fc_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,781 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/d1ebb83f43220f8a11bcde0e41721cfa/state.vscdb
+2025-09-04 13:40:14,781 - INFO - Exported: /Users/esther/CursorChatExports/d1ebb83f43220f8a11bcde0e41721cfa_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,781 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/0e888b0626c1d62c36990e09a507a0e4/state.vscdb
+2025-09-04 13:40:14,782 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/6267310023db28a918cee956172ff387/state.vscdb
+2025-09-04 13:40:14,782 - INFO - Exported: /Users/esther/CursorChatExports/6267310023db28a918cee956172ff387_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,782 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/9099bcb232b39af9b9e2be1ff3870a88/state.vscdb
+2025-09-04 13:40:14,783 - INFO - Exported: /Users/esther/CursorChatExports/9099bcb232b39af9b9e2be1ff3870a88_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,783 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c2908a0cd075935274228257a6cc46dd/state.vscdb
+2025-09-04 13:40:14,784 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/38649d5cf2bf060c3e3806f1a5085ce9/state.vscdb
+2025-09-04 13:40:14,785 - INFO - Exported: /Users/esther/CursorChatExports/38649d5cf2bf060c3e3806f1a5085ce9_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,785 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a201d85cd8981fd32c055e29dcdfc5bd/state.vscdb
+2025-09-04 13:40:14,790 - INFO - Exported: /Users/esther/CursorChatExports/a201d85cd8981fd32c055e29dcdfc5bd_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,790 - INFO - Exported: /Users/esther/CursorChatExports/a201d85cd8981fd32c055e29dcdfc5bd_workbench.panel.aichat.view.aichat.chatdata_20250904-134014.md
+2025-09-04 13:40:14,798 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/88c9549f40badfd032ecbdd059c95ac2/state.vscdb
+2025-09-04 13:40:14,798 - INFO - Exported: /Users/esther/CursorChatExports/88c9549f40badfd032ecbdd059c95ac2_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,798 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/f55b446fd9d7ae6cd735c670cfabbf06/state.vscdb
+2025-09-04 13:40:14,799 - INFO - Exported: /Users/esther/CursorChatExports/f55b446fd9d7ae6cd735c670cfabbf06_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,799 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/804c6556184745d3ab76cde7bf61a731/state.vscdb
+2025-09-04 13:40:14,802 - INFO - Exported: /Users/esther/CursorChatExports/804c6556184745d3ab76cde7bf61a731_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,802 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ef05e8ea455f6ceee52ee633da55980c/state.vscdb
+2025-09-04 13:40:14,803 - INFO - Exported: /Users/esther/CursorChatExports/ef05e8ea455f6ceee52ee633da55980c_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,804 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a5e1ef5857e9fa50a850bb1366b9eae8/state.vscdb
+2025-09-04 13:40:14,804 - INFO - Exported: /Users/esther/CursorChatExports/a5e1ef5857e9fa50a850bb1366b9eae8_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,805 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/6475ddb019de816a1ef9e335b51588c6/state.vscdb
+2025-09-04 13:40:14,806 - INFO - Exported: /Users/esther/CursorChatExports/6475ddb019de816a1ef9e335b51588c6_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,806 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/0f12c87c40970b68fd10717a117da06b/state.vscdb
+2025-09-04 13:40:14,806 - INFO - Exported: /Users/esther/CursorChatExports/0f12c87c40970b68fd10717a117da06b_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,806 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/8ee68686d64f315412055d22d6794383/state.vscdb
+2025-09-04 13:40:14,807 - INFO - Exported: /Users/esther/CursorChatExports/8ee68686d64f315412055d22d6794383_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,807 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2dbce3dbae3c3f174eccad92b4e8baae/state.vscdb
+2025-09-04 13:40:14,808 - INFO - Exported: /Users/esther/CursorChatExports/2dbce3dbae3c3f174eccad92b4e8baae_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,808 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ab00ef1af954ac95abcf6e8beae15026/state.vscdb
+2025-09-04 13:40:14,809 - INFO - Exported: /Users/esther/CursorChatExports/ab00ef1af954ac95abcf6e8beae15026_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,809 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/66ca034b769a69cc9e3d89667524e041/state.vscdb
+2025-09-04 13:40:14,809 - INFO - Exported: /Users/esther/CursorChatExports/66ca034b769a69cc9e3d89667524e041_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,809 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/8e6df14810eba59ea3065e3f36934bb8/state.vscdb
+2025-09-04 13:40:14,810 - INFO - Exported: /Users/esther/CursorChatExports/8e6df14810eba59ea3065e3f36934bb8_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,811 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ext-dev/state.vscdb
+2025-09-04 13:40:14,811 - INFO - Exported: /Users/esther/CursorChatExports/ext-dev_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,811 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/231569d88355bdcd8758e3516e1fe7b3/state.vscdb
+2025-09-04 13:40:14,812 - INFO - Exported: /Users/esther/CursorChatExports/231569d88355bdcd8758e3516e1fe7b3_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,812 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c9754c6662e3a1930f40aae1e8b6be5d/state.vscdb
+2025-09-04 13:40:14,813 - INFO - Exported: /Users/esther/CursorChatExports/c9754c6662e3a1930f40aae1e8b6be5d_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,813 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/f95697591cf1146a0e2c9a76a1e34e7a/state.vscdb
+2025-09-04 13:40:14,814 - INFO - Exported: /Users/esther/CursorChatExports/f95697591cf1146a0e2c9a76a1e34e7a_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,814 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/22e438245c7ca44c0165951d51146e56/state.vscdb
+2025-09-04 13:40:14,819 - INFO - Exported: /Users/esther/CursorChatExports/22e438245c7ca44c0165951d51146e56_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,819 - INFO - Exported: /Users/esther/CursorChatExports/22e438245c7ca44c0165951d51146e56_workbench.panel.aichat.view.aichat.chatdata_20250904-134014.md
+2025-09-04 13:40:14,819 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/504eb0e3e102a66697ab43e4d527e383/state.vscdb
+2025-09-04 13:40:14,820 - INFO - Exported: /Users/esther/CursorChatExports/504eb0e3e102a66697ab43e4d527e383_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,820 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2825359b80125424c0e7a04184e5a90f/state.vscdb
+2025-09-04 13:40:14,821 - INFO - Exported: /Users/esther/CursorChatExports/2825359b80125424c0e7a04184e5a90f_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,821 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/f2f3fab6d288cc8e867d5a1d8fce2998/state.vscdb
+2025-09-04 13:40:14,822 - INFO - Exported: /Users/esther/CursorChatExports/f2f3fab6d288cc8e867d5a1d8fce2998_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,822 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/df280abf2250653e772fede0f02efc3d/state.vscdb
+2025-09-04 13:40:14,823 - INFO - Exported: /Users/esther/CursorChatExports/df280abf2250653e772fede0f02efc3d_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,823 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2c93aa8ef5ea42aba38fa6b80c3be6ac/state.vscdb
+2025-09-04 13:40:14,823 - INFO - Exported: /Users/esther/CursorChatExports/2c93aa8ef5ea42aba38fa6b80c3be6ac_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,823 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ad300ffbbb9cd0d44152bff92b5e7888/state.vscdb
+2025-09-04 13:40:14,824 - INFO - Exported: /Users/esther/CursorChatExports/ad300ffbbb9cd0d44152bff92b5e7888_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,824 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/46a90644e45f5eb2406ad62723229a5b/state.vscdb
+2025-09-04 13:40:14,825 - INFO - Exported: /Users/esther/CursorChatExports/46a90644e45f5eb2406ad62723229a5b_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,825 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c218742347de2e78c952e1bfd4ba9242/state.vscdb
+2025-09-04 13:40:14,827 - INFO - Exported: /Users/esther/CursorChatExports/c218742347de2e78c952e1bfd4ba9242_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,827 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/89a2687675446f6d413ee17dd3bf7f5b/state.vscdb
+2025-09-04 13:40:14,829 - INFO - Exported: /Users/esther/CursorChatExports/89a2687675446f6d413ee17dd3bf7f5b_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,829 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a2c92b13f213fe75d383b3b978f002e2/state.vscdb
+2025-09-04 13:40:14,830 - INFO - Exported: /Users/esther/CursorChatExports/a2c92b13f213fe75d383b3b978f002e2_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,831 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/cd4bb8f3864bf9cab13c556cbaad7e48/state.vscdb
+2025-09-04 13:40:14,831 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/90c26266fdad62c6c156bf155ff89c58/state.vscdb
+2025-09-04 13:40:14,832 - INFO - Exported: /Users/esther/CursorChatExports/90c26266fdad62c6c156bf155ff89c58_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,832 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/4a65c529e1d67a7ae5555247ed0f6c72/state.vscdb
+2025-09-04 13:40:14,833 - INFO - Exported: /Users/esther/CursorChatExports/4a65c529e1d67a7ae5555247ed0f6c72_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,833 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/562df6560fcbb05837c0bd60c51d0986/state.vscdb
+2025-09-04 13:40:14,833 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a0e4de748d49de2041972f25efe3e657/state.vscdb
+2025-09-04 13:40:14,834 - INFO - Exported: /Users/esther/CursorChatExports/a0e4de748d49de2041972f25efe3e657_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,835 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/b6fdd4b707cfb5de11cc8664c919c62d/state.vscdb
+2025-09-04 13:40:14,835 - INFO - Exported: /Users/esther/CursorChatExports/b6fdd4b707cfb5de11cc8664c919c62d_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,836 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/057345f2307793e13f87481ed35e1c04/state.vscdb
+2025-09-04 13:40:14,837 - INFO - Exported: /Users/esther/CursorChatExports/057345f2307793e13f87481ed35e1c04_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,837 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/12f5ea19f04e6d090b2ba6cad4c0cb35/state.vscdb
+2025-09-04 13:40:14,837 - INFO - Exported: /Users/esther/CursorChatExports/12f5ea19f04e6d090b2ba6cad4c0cb35_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,838 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/8c865c58e26e14b323748ee37f3ef18b/state.vscdb
+2025-09-04 13:40:14,839 - INFO - Exported: /Users/esther/CursorChatExports/8c865c58e26e14b323748ee37f3ef18b_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,839 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/be796717b8b9179726d3f7f84ff58611/state.vscdb
+2025-09-04 13:40:14,840 - INFO - Exported: /Users/esther/CursorChatExports/be796717b8b9179726d3f7f84ff58611_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,841 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/8019311a10f84a375b8233483768e68f/state.vscdb
+2025-09-04 13:40:14,841 - INFO - Exported: /Users/esther/CursorChatExports/8019311a10f84a375b8233483768e68f_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,842 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/164b9c7b285a90e2be8342db140ac6dd/state.vscdb
+2025-09-04 13:40:14,842 - INFO - Exported: /Users/esther/CursorChatExports/164b9c7b285a90e2be8342db140ac6dd_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,843 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/b4a05e5b4a219fcf356c252411053086/state.vscdb
+2025-09-04 13:40:14,843 - INFO - Exported: /Users/esther/CursorChatExports/b4a05e5b4a219fcf356c252411053086_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,844 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5d3b06095c3abda47a0538ab6f2a54fa/state.vscdb
+2025-09-04 13:40:14,844 - INFO - Exported: /Users/esther/CursorChatExports/5d3b06095c3abda47a0538ab6f2a54fa_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,845 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/05b6020f12fe1565516eb3d20dc825e8/state.vscdb
+2025-09-04 13:40:14,845 - INFO - Exported: /Users/esther/CursorChatExports/05b6020f12fe1565516eb3d20dc825e8_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,845 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/de72c3ec8786c544762b1ca1ed49e38f/state.vscdb
+2025-09-04 13:40:14,846 - INFO - Exported: /Users/esther/CursorChatExports/de72c3ec8786c544762b1ca1ed49e38f_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,846 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/19b51d780f9296bfc012ac9b36d2dd4b/state.vscdb
+2025-09-04 13:40:14,847 - INFO - Exported: /Users/esther/CursorChatExports/19b51d780f9296bfc012ac9b36d2dd4b_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,847 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c572cd752be885b7944c226086344932/state.vscdb
+2025-09-04 13:40:14,848 - INFO - Exported: /Users/esther/CursorChatExports/c572cd752be885b7944c226086344932_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,848 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/fbe74eb05d16713886080b9971feba83/state.vscdb
+2025-09-04 13:40:14,849 - INFO - Exported: /Users/esther/CursorChatExports/fbe74eb05d16713886080b9971feba83_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,849 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/917f1417cd0beb03b1993282165430c7/state.vscdb
+2025-09-04 13:40:14,849 - INFO - Exported: /Users/esther/CursorChatExports/917f1417cd0beb03b1993282165430c7_aiService.prompts_20250904-134014.md
+2025-09-04 13:40:14,849 - INFO - Scraping complete. Processed 92 workspaces, exported 88 files.
+2025-09-04 13:40:36,124 - INFO - Starting Cursor chat scraping (today only)...
+2025-09-04 13:40:36,124 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/d0813649d6647ccf56c02a77a5b87b21/state.vscdb
+2025-09-04 13:40:36,125 - INFO - Exported: /Users/esther/CursorChatExports/d0813649d6647ccf56c02a77a5b87b21_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,125 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/72fffb91ceb3543fd14425aebf01f2da/state.vscdb
+2025-09-04 13:40:36,126 - INFO - Exported: /Users/esther/CursorChatExports/72fffb91ceb3543fd14425aebf01f2da_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,126 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/d903e1922c9b26b796dcb98517f98f56/state.vscdb
+2025-09-04 13:40:36,127 - INFO - Exported: /Users/esther/CursorChatExports/d903e1922c9b26b796dcb98517f98f56_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,127 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/566607aae34ecc39547a76d4c8f92fb5/state.vscdb
+2025-09-04 13:40:36,128 - INFO - Exported: /Users/esther/CursorChatExports/566607aae34ecc39547a76d4c8f92fb5_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,128 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/9997d01580d2eea28a0f10f88448dedc/state.vscdb
+2025-09-04 13:40:36,129 - INFO - Exported: /Users/esther/CursorChatExports/9997d01580d2eea28a0f10f88448dedc_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,129 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/db850b1b4da7ce11260576103472975a/state.vscdb
+2025-09-04 13:40:36,129 - INFO - Exported: /Users/esther/CursorChatExports/db850b1b4da7ce11260576103472975a_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,129 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/491abb2e52f7303ce2b9e4fb9b7d85c9/state.vscdb
+2025-09-04 13:40:36,130 - INFO - Exported: /Users/esther/CursorChatExports/491abb2e52f7303ce2b9e4fb9b7d85c9_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,130 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c842f5d8e5a65cc23c57a0e5a957139c/state.vscdb
+2025-09-04 13:40:36,131 - INFO - Exported: /Users/esther/CursorChatExports/c842f5d8e5a65cc23c57a0e5a957139c_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,131 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/bcc689dc95111f15e64b5fc9990db7fe/state.vscdb
+2025-09-04 13:40:36,132 - INFO - Exported: /Users/esther/CursorChatExports/bcc689dc95111f15e64b5fc9990db7fe_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,132 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2888f4d6e4d367a6e406dedde7ebbc6c/state.vscdb
+2025-09-04 13:40:36,132 - INFO - Exported: /Users/esther/CursorChatExports/2888f4d6e4d367a6e406dedde7ebbc6c_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,132 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/9633413c39795c94c8ce25856c16bf09/state.vscdb
+2025-09-04 13:40:36,133 - INFO - Exported: /Users/esther/CursorChatExports/9633413c39795c94c8ce25856c16bf09_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,133 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c1847df385c17c6d725c8c3797912034/state.vscdb
+2025-09-04 13:40:36,134 - INFO - Exported: /Users/esther/CursorChatExports/c1847df385c17c6d725c8c3797912034_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,134 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/25c7834778068808587b368b2fa5d379/state.vscdb
+2025-09-04 13:40:36,134 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2d978aadb86628d409b3e19bfe52782c/state.vscdb
+2025-09-04 13:40:36,137 - INFO - Exported: /Users/esther/CursorChatExports/2d978aadb86628d409b3e19bfe52782c_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,137 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/38f4bac73b0a671e6a59a81f1b119d42/state.vscdb
+2025-09-04 13:40:36,139 - INFO - Exported: /Users/esther/CursorChatExports/38f4bac73b0a671e6a59a81f1b119d42_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,140 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/236a1fb6c4c5302c382ba1adbbdae6a8/state.vscdb
+2025-09-04 13:40:36,142 - INFO - Exported: /Users/esther/CursorChatExports/236a1fb6c4c5302c382ba1adbbdae6a8_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,143 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/6e59ee598382eefadf51329b259ace71/state.vscdb
+2025-09-04 13:40:36,146 - INFO - Exported: /Users/esther/CursorChatExports/6e59ee598382eefadf51329b259ace71_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,147 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5bee1835b68a55c14d4bc61102ab64d9/state.vscdb
+2025-09-04 13:40:36,148 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ade2f34be3195964e5aba5be4642b623/state.vscdb
+2025-09-04 13:40:36,151 - INFO - Exported: /Users/esther/CursorChatExports/ade2f34be3195964e5aba5be4642b623_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,151 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/46632a676ee27f49efb9fca6bc965071/state.vscdb
+2025-09-04 13:40:36,153 - INFO - Exported: /Users/esther/CursorChatExports/46632a676ee27f49efb9fca6bc965071_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,153 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5461424fe7eb277ee2d305d944d133a5/state.vscdb
+2025-09-04 13:40:36,155 - INFO - Exported: /Users/esther/CursorChatExports/5461424fe7eb277ee2d305d944d133a5_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,156 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/560be848e8f919daaafedfc5846e51a5/state.vscdb
+2025-09-04 13:40:36,159 - INFO - Exported: /Users/esther/CursorChatExports/560be848e8f919daaafedfc5846e51a5_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,159 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/df4cfa088c0106c2a9e986e071c9ddd9/state.vscdb
+2025-09-04 13:40:36,160 - INFO - Exported: /Users/esther/CursorChatExports/df4cfa088c0106c2a9e986e071c9ddd9_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,160 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/d79a6665345539d33cad4a85ea16a665/state.vscdb
+2025-09-04 13:40:36,160 - INFO - Exported: /Users/esther/CursorChatExports/d79a6665345539d33cad4a85ea16a665_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,160 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2ae56acafdfec175ef71f34fc34a6d36/state.vscdb
+2025-09-04 13:40:36,162 - INFO - Exported: /Users/esther/CursorChatExports/2ae56acafdfec175ef71f34fc34a6d36_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,162 - INFO - Exported: /Users/esther/CursorChatExports/2ae56acafdfec175ef71f34fc34a6d36_workbench.panel.aichat.view.aichat.chatdata_20250904-134036.md
+2025-09-04 13:40:36,162 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/dde062ab16a1b8a6beea621955f7bcfb/state.vscdb
+2025-09-04 13:40:36,163 - INFO - Exported: /Users/esther/CursorChatExports/dde062ab16a1b8a6beea621955f7bcfb_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,163 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/1a6728a167dd7d9587f3a9b3a215c8ab/state.vscdb
+2025-09-04 13:40:36,164 - INFO - Exported: /Users/esther/CursorChatExports/1a6728a167dd7d9587f3a9b3a215c8ab_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,165 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5f0f6d0f8edd78c8fee24bec5d597afd/state.vscdb
+2025-09-04 13:40:36,168 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5c93ed932deb010c8813f1c839326a3c/state.vscdb
+2025-09-04 13:40:36,169 - INFO - Exported: /Users/esther/CursorChatExports/5c93ed932deb010c8813f1c839326a3c_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,169 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5f44d3fd537575cfa5e9c3beaa267de9/state.vscdb
+2025-09-04 13:40:36,171 - INFO - Exported: /Users/esther/CursorChatExports/5f44d3fd537575cfa5e9c3beaa267de9_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,171 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2701aca0b992989000b77e5052bfa410/state.vscdb
+2025-09-04 13:40:36,172 - INFO - Exported: /Users/esther/CursorChatExports/2701aca0b992989000b77e5052bfa410_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,172 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ae64415e220c4a1ae51e01e1756d2f45/state.vscdb
+2025-09-04 13:40:36,172 - INFO - Exported: /Users/esther/CursorChatExports/ae64415e220c4a1ae51e01e1756d2f45_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,172 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2369cef4eaac67f02de8b419d7c78df1/state.vscdb
+2025-09-04 13:40:36,173 - INFO - Exported: /Users/esther/CursorChatExports/2369cef4eaac67f02de8b419d7c78df1_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,173 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2c1d8caed27fff18b7621837eb9bbda8/state.vscdb
+2025-09-04 13:40:36,174 - INFO - Exported: /Users/esther/CursorChatExports/2c1d8caed27fff18b7621837eb9bbda8_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,174 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2da6441cfb2edff94f4d90a38254cebf/state.vscdb
+2025-09-04 13:40:36,175 - INFO - Exported: /Users/esther/CursorChatExports/2da6441cfb2edff94f4d90a38254cebf_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,175 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a342eaca970d467ff831b6da85e58301/state.vscdb
+2025-09-04 13:40:36,176 - INFO - Exported: /Users/esther/CursorChatExports/a342eaca970d467ff831b6da85e58301_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,176 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/582445b9c22714ffc7386afa5986bcb3/state.vscdb
+2025-09-04 13:40:36,176 - INFO - Exported: /Users/esther/CursorChatExports/582445b9c22714ffc7386afa5986bcb3_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,176 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/6ec6ce05cd2e440faa352c699a0210fc/state.vscdb
+2025-09-04 13:40:36,178 - INFO - Exported: /Users/esther/CursorChatExports/6ec6ce05cd2e440faa352c699a0210fc_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,178 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/d1ebb83f43220f8a11bcde0e41721cfa/state.vscdb
+2025-09-04 13:40:36,178 - INFO - Exported: /Users/esther/CursorChatExports/d1ebb83f43220f8a11bcde0e41721cfa_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,178 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/0e888b0626c1d62c36990e09a507a0e4/state.vscdb
+2025-09-04 13:40:36,178 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/6267310023db28a918cee956172ff387/state.vscdb
+2025-09-04 13:40:36,179 - INFO - Exported: /Users/esther/CursorChatExports/6267310023db28a918cee956172ff387_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,179 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/9099bcb232b39af9b9e2be1ff3870a88/state.vscdb
+2025-09-04 13:40:36,180 - INFO - Exported: /Users/esther/CursorChatExports/9099bcb232b39af9b9e2be1ff3870a88_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,180 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c2908a0cd075935274228257a6cc46dd/state.vscdb
+2025-09-04 13:40:36,180 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/38649d5cf2bf060c3e3806f1a5085ce9/state.vscdb
+2025-09-04 13:40:36,180 - INFO - Exported: /Users/esther/CursorChatExports/38649d5cf2bf060c3e3806f1a5085ce9_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,181 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a201d85cd8981fd32c055e29dcdfc5bd/state.vscdb
+2025-09-04 13:40:36,186 - INFO - Exported: /Users/esther/CursorChatExports/a201d85cd8981fd32c055e29dcdfc5bd_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,186 - INFO - Exported: /Users/esther/CursorChatExports/a201d85cd8981fd32c055e29dcdfc5bd_workbench.panel.aichat.view.aichat.chatdata_20250904-134036.md
+2025-09-04 13:40:36,189 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/88c9549f40badfd032ecbdd059c95ac2/state.vscdb
+2025-09-04 13:40:36,190 - INFO - Exported: /Users/esther/CursorChatExports/88c9549f40badfd032ecbdd059c95ac2_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,190 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/f55b446fd9d7ae6cd735c670cfabbf06/state.vscdb
+2025-09-04 13:40:36,190 - INFO - Exported: /Users/esther/CursorChatExports/f55b446fd9d7ae6cd735c670cfabbf06_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,190 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/804c6556184745d3ab76cde7bf61a731/state.vscdb
+2025-09-04 13:40:36,193 - INFO - Exported: /Users/esther/CursorChatExports/804c6556184745d3ab76cde7bf61a731_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,193 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ef05e8ea455f6ceee52ee633da55980c/state.vscdb
+2025-09-04 13:40:36,193 - INFO - Exported: /Users/esther/CursorChatExports/ef05e8ea455f6ceee52ee633da55980c_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,193 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a5e1ef5857e9fa50a850bb1366b9eae8/state.vscdb
+2025-09-04 13:40:36,194 - INFO - Exported: /Users/esther/CursorChatExports/a5e1ef5857e9fa50a850bb1366b9eae8_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,194 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/6475ddb019de816a1ef9e335b51588c6/state.vscdb
+2025-09-04 13:40:36,195 - INFO - Exported: /Users/esther/CursorChatExports/6475ddb019de816a1ef9e335b51588c6_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,195 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/0f12c87c40970b68fd10717a117da06b/state.vscdb
+2025-09-04 13:40:36,196 - INFO - Exported: /Users/esther/CursorChatExports/0f12c87c40970b68fd10717a117da06b_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,196 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/8ee68686d64f315412055d22d6794383/state.vscdb
+2025-09-04 13:40:36,196 - INFO - Exported: /Users/esther/CursorChatExports/8ee68686d64f315412055d22d6794383_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,197 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2dbce3dbae3c3f174eccad92b4e8baae/state.vscdb
+2025-09-04 13:40:36,197 - INFO - Exported: /Users/esther/CursorChatExports/2dbce3dbae3c3f174eccad92b4e8baae_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,197 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ab00ef1af954ac95abcf6e8beae15026/state.vscdb
+2025-09-04 13:40:36,198 - INFO - Exported: /Users/esther/CursorChatExports/ab00ef1af954ac95abcf6e8beae15026_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,198 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/66ca034b769a69cc9e3d89667524e041/state.vscdb
+2025-09-04 13:40:36,199 - INFO - Exported: /Users/esther/CursorChatExports/66ca034b769a69cc9e3d89667524e041_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,199 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/8e6df14810eba59ea3065e3f36934bb8/state.vscdb
+2025-09-04 13:40:36,200 - INFO - Exported: /Users/esther/CursorChatExports/8e6df14810eba59ea3065e3f36934bb8_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,200 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ext-dev/state.vscdb
+2025-09-04 13:40:36,200 - INFO - Exported: /Users/esther/CursorChatExports/ext-dev_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,200 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/231569d88355bdcd8758e3516e1fe7b3/state.vscdb
+2025-09-04 13:40:36,201 - INFO - Exported: /Users/esther/CursorChatExports/231569d88355bdcd8758e3516e1fe7b3_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,201 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c9754c6662e3a1930f40aae1e8b6be5d/state.vscdb
+2025-09-04 13:40:36,202 - INFO - Exported: /Users/esther/CursorChatExports/c9754c6662e3a1930f40aae1e8b6be5d_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,202 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/f95697591cf1146a0e2c9a76a1e34e7a/state.vscdb
+2025-09-04 13:40:36,202 - INFO - Exported: /Users/esther/CursorChatExports/f95697591cf1146a0e2c9a76a1e34e7a_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,203 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/22e438245c7ca44c0165951d51146e56/state.vscdb
+2025-09-04 13:40:36,208 - INFO - Exported: /Users/esther/CursorChatExports/22e438245c7ca44c0165951d51146e56_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,208 - INFO - Exported: /Users/esther/CursorChatExports/22e438245c7ca44c0165951d51146e56_workbench.panel.aichat.view.aichat.chatdata_20250904-134036.md
+2025-09-04 13:40:36,208 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/504eb0e3e102a66697ab43e4d527e383/state.vscdb
+2025-09-04 13:40:36,208 - INFO - Exported: /Users/esther/CursorChatExports/504eb0e3e102a66697ab43e4d527e383_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,209 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2825359b80125424c0e7a04184e5a90f/state.vscdb
+2025-09-04 13:40:36,209 - INFO - Exported: /Users/esther/CursorChatExports/2825359b80125424c0e7a04184e5a90f_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,209 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/f2f3fab6d288cc8e867d5a1d8fce2998/state.vscdb
+2025-09-04 13:40:36,210 - INFO - Exported: /Users/esther/CursorChatExports/f2f3fab6d288cc8e867d5a1d8fce2998_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,210 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/df280abf2250653e772fede0f02efc3d/state.vscdb
+2025-09-04 13:40:36,211 - INFO - Exported: /Users/esther/CursorChatExports/df280abf2250653e772fede0f02efc3d_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,211 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2c93aa8ef5ea42aba38fa6b80c3be6ac/state.vscdb
+2025-09-04 13:40:36,211 - INFO - Exported: /Users/esther/CursorChatExports/2c93aa8ef5ea42aba38fa6b80c3be6ac_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,211 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ad300ffbbb9cd0d44152bff92b5e7888/state.vscdb
+2025-09-04 13:40:36,211 - INFO - Exported: /Users/esther/CursorChatExports/ad300ffbbb9cd0d44152bff92b5e7888_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,212 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/46a90644e45f5eb2406ad62723229a5b/state.vscdb
+2025-09-04 13:40:36,212 - INFO - Exported: /Users/esther/CursorChatExports/46a90644e45f5eb2406ad62723229a5b_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,212 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c218742347de2e78c952e1bfd4ba9242/state.vscdb
+2025-09-04 13:40:36,214 - INFO - Exported: /Users/esther/CursorChatExports/c218742347de2e78c952e1bfd4ba9242_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,214 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/89a2687675446f6d413ee17dd3bf7f5b/state.vscdb
+2025-09-04 13:40:36,216 - INFO - Exported: /Users/esther/CursorChatExports/89a2687675446f6d413ee17dd3bf7f5b_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,216 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a2c92b13f213fe75d383b3b978f002e2/state.vscdb
+2025-09-04 13:40:36,217 - INFO - Exported: /Users/esther/CursorChatExports/a2c92b13f213fe75d383b3b978f002e2_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,217 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/cd4bb8f3864bf9cab13c556cbaad7e48/state.vscdb
+2025-09-04 13:40:36,218 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/90c26266fdad62c6c156bf155ff89c58/state.vscdb
+2025-09-04 13:40:36,218 - INFO - Exported: /Users/esther/CursorChatExports/90c26266fdad62c6c156bf155ff89c58_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,218 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/4a65c529e1d67a7ae5555247ed0f6c72/state.vscdb
+2025-09-04 13:40:36,219 - INFO - Exported: /Users/esther/CursorChatExports/4a65c529e1d67a7ae5555247ed0f6c72_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,219 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/562df6560fcbb05837c0bd60c51d0986/state.vscdb
+2025-09-04 13:40:36,219 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a0e4de748d49de2041972f25efe3e657/state.vscdb
+2025-09-04 13:40:36,220 - INFO - Exported: /Users/esther/CursorChatExports/a0e4de748d49de2041972f25efe3e657_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,220 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/b6fdd4b707cfb5de11cc8664c919c62d/state.vscdb
+2025-09-04 13:40:36,221 - INFO - Exported: /Users/esther/CursorChatExports/b6fdd4b707cfb5de11cc8664c919c62d_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,221 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/057345f2307793e13f87481ed35e1c04/state.vscdb
+2025-09-04 13:40:36,222 - INFO - Exported: /Users/esther/CursorChatExports/057345f2307793e13f87481ed35e1c04_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,222 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/12f5ea19f04e6d090b2ba6cad4c0cb35/state.vscdb
+2025-09-04 13:40:36,223 - INFO - Exported: /Users/esther/CursorChatExports/12f5ea19f04e6d090b2ba6cad4c0cb35_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,223 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/8c865c58e26e14b323748ee37f3ef18b/state.vscdb
+2025-09-04 13:40:36,223 - INFO - Exported: /Users/esther/CursorChatExports/8c865c58e26e14b323748ee37f3ef18b_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,224 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/be796717b8b9179726d3f7f84ff58611/state.vscdb
+2025-09-04 13:40:36,224 - INFO - Exported: /Users/esther/CursorChatExports/be796717b8b9179726d3f7f84ff58611_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,224 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/8019311a10f84a375b8233483768e68f/state.vscdb
+2025-09-04 13:40:36,225 - INFO - Exported: /Users/esther/CursorChatExports/8019311a10f84a375b8233483768e68f_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,225 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/164b9c7b285a90e2be8342db140ac6dd/state.vscdb
+2025-09-04 13:40:36,225 - INFO - Exported: /Users/esther/CursorChatExports/164b9c7b285a90e2be8342db140ac6dd_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,226 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/b4a05e5b4a219fcf356c252411053086/state.vscdb
+2025-09-04 13:40:36,226 - INFO - Exported: /Users/esther/CursorChatExports/b4a05e5b4a219fcf356c252411053086_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,226 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5d3b06095c3abda47a0538ab6f2a54fa/state.vscdb
+2025-09-04 13:40:36,227 - INFO - Exported: /Users/esther/CursorChatExports/5d3b06095c3abda47a0538ab6f2a54fa_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,227 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/05b6020f12fe1565516eb3d20dc825e8/state.vscdb
+2025-09-04 13:40:36,227 - INFO - Exported: /Users/esther/CursorChatExports/05b6020f12fe1565516eb3d20dc825e8_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,227 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/de72c3ec8786c544762b1ca1ed49e38f/state.vscdb
+2025-09-04 13:40:36,228 - INFO - Exported: /Users/esther/CursorChatExports/de72c3ec8786c544762b1ca1ed49e38f_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,228 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/19b51d780f9296bfc012ac9b36d2dd4b/state.vscdb
+2025-09-04 13:40:36,229 - INFO - Exported: /Users/esther/CursorChatExports/19b51d780f9296bfc012ac9b36d2dd4b_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,229 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c572cd752be885b7944c226086344932/state.vscdb
+2025-09-04 13:40:36,230 - INFO - Exported: /Users/esther/CursorChatExports/c572cd752be885b7944c226086344932_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,230 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/fbe74eb05d16713886080b9971feba83/state.vscdb
+2025-09-04 13:40:36,231 - INFO - Exported: /Users/esther/CursorChatExports/fbe74eb05d16713886080b9971feba83_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,231 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/917f1417cd0beb03b1993282165430c7/state.vscdb
+2025-09-04 13:40:36,231 - INFO - Exported: /Users/esther/CursorChatExports/917f1417cd0beb03b1993282165430c7_aiService.prompts_20250904-134036.md
+2025-09-04 13:40:36,231 - INFO - Scraping complete. Processed 92 workspaces, exported 88 files.
+2025-09-04 13:48:35,654 - INFO - Starting Cursor chat scraping (today only)...
+2025-09-04 13:48:35,655 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/d0813649d6647ccf56c02a77a5b87b21/state.vscdb
+2025-09-04 13:48:35,656 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/72fffb91ceb3543fd14425aebf01f2da/state.vscdb
+2025-09-04 13:48:35,657 - INFO - Exported: /Users/esther/CursorChatExports/72fffb91ceb3543fd14425aebf01f2da_aiService.prompts_20250904-134835.md
+2025-09-04 13:48:35,657 - INFO - Exported: /Users/esther/CursorChatExports/72fffb91ceb3543fd14425aebf01f2da_composer.composerData_20250904-134835.md
+2025-09-04 13:48:35,657 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/d903e1922c9b26b796dcb98517f98f56/state.vscdb
+2025-09-04 13:48:35,658 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/566607aae34ecc39547a76d4c8f92fb5/state.vscdb
+2025-09-04 13:48:35,658 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/9997d01580d2eea28a0f10f88448dedc/state.vscdb
+2025-09-04 13:48:35,659 - INFO - Exported: /Users/esther/CursorChatExports/9997d01580d2eea28a0f10f88448dedc_aiService.prompts_20250904-134835.md
+2025-09-04 13:48:35,659 - INFO - Exported: /Users/esther/CursorChatExports/9997d01580d2eea28a0f10f88448dedc_composer.composerData_20250904-134835.md
+2025-09-04 13:48:35,659 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/db850b1b4da7ce11260576103472975a/state.vscdb
+2025-09-04 13:48:35,660 - INFO - Exported: /Users/esther/CursorChatExports/db850b1b4da7ce11260576103472975a_aiService.prompts_20250904-134835.md
+2025-09-04 13:48:35,660 - INFO - Exported: /Users/esther/CursorChatExports/db850b1b4da7ce11260576103472975a_composer.composerData_20250904-134835.md
+2025-09-04 13:48:35,660 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/491abb2e52f7303ce2b9e4fb9b7d85c9/state.vscdb
+2025-09-04 13:48:35,661 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c842f5d8e5a65cc23c57a0e5a957139c/state.vscdb
+2025-09-04 13:48:35,662 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/bcc689dc95111f15e64b5fc9990db7fe/state.vscdb
+2025-09-04 13:48:35,662 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2888f4d6e4d367a6e406dedde7ebbc6c/state.vscdb
+2025-09-04 13:48:35,662 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/9633413c39795c94c8ce25856c16bf09/state.vscdb
+2025-09-04 13:48:35,663 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c1847df385c17c6d725c8c3797912034/state.vscdb
+2025-09-04 13:48:35,664 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/25c7834778068808587b368b2fa5d379/state.vscdb
+2025-09-04 13:48:35,664 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2d978aadb86628d409b3e19bfe52782c/state.vscdb
+2025-09-04 13:48:35,666 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/38f4bac73b0a671e6a59a81f1b119d42/state.vscdb
+2025-09-04 13:48:35,667 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/236a1fb6c4c5302c382ba1adbbdae6a8/state.vscdb
+2025-09-04 13:48:35,667 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/6e59ee598382eefadf51329b259ace71/state.vscdb
+2025-09-04 13:48:35,668 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5bee1835b68a55c14d4bc61102ab64d9/state.vscdb
+2025-09-04 13:48:35,669 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ade2f34be3195964e5aba5be4642b623/state.vscdb
+2025-09-04 13:48:35,670 - INFO - Exported: /Users/esther/CursorChatExports/ade2f34be3195964e5aba5be4642b623_aiService.prompts_20250904-134835.md
+2025-09-04 13:48:35,670 - INFO - Exported: /Users/esther/CursorChatExports/ade2f34be3195964e5aba5be4642b623_composer.composerData_20250904-134835.md
+2025-09-04 13:48:35,670 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/46632a676ee27f49efb9fca6bc965071/state.vscdb
+2025-09-04 13:48:35,670 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5461424fe7eb277ee2d305d944d133a5/state.vscdb
+2025-09-04 13:48:35,671 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/560be848e8f919daaafedfc5846e51a5/state.vscdb
+2025-09-04 13:48:35,672 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/df4cfa088c0106c2a9e986e071c9ddd9/state.vscdb
+2025-09-04 13:48:35,672 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/d79a6665345539d33cad4a85ea16a665/state.vscdb
+2025-09-04 13:48:35,673 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2ae56acafdfec175ef71f34fc34a6d36/state.vscdb
+2025-09-04 13:48:35,674 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/dde062ab16a1b8a6beea621955f7bcfb/state.vscdb
+2025-09-04 13:48:35,675 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/1a6728a167dd7d9587f3a9b3a215c8ab/state.vscdb
+2025-09-04 13:48:35,675 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5f0f6d0f8edd78c8fee24bec5d597afd/state.vscdb
+2025-09-04 13:48:35,675 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5c93ed932deb010c8813f1c839326a3c/state.vscdb
+2025-09-04 13:48:35,676 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5f44d3fd537575cfa5e9c3beaa267de9/state.vscdb
+2025-09-04 13:48:35,677 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2701aca0b992989000b77e5052bfa410/state.vscdb
+2025-09-04 13:48:35,678 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ae64415e220c4a1ae51e01e1756d2f45/state.vscdb
+2025-09-04 13:48:35,678 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2369cef4eaac67f02de8b419d7c78df1/state.vscdb
+2025-09-04 13:48:35,679 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2c1d8caed27fff18b7621837eb9bbda8/state.vscdb
+2025-09-04 13:48:35,680 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2da6441cfb2edff94f4d90a38254cebf/state.vscdb
+2025-09-04 13:48:35,680 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a342eaca970d467ff831b6da85e58301/state.vscdb
+2025-09-04 13:48:35,681 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/582445b9c22714ffc7386afa5986bcb3/state.vscdb
+2025-09-04 13:48:35,682 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/6ec6ce05cd2e440faa352c699a0210fc/state.vscdb
+2025-09-04 13:48:35,682 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/d1ebb83f43220f8a11bcde0e41721cfa/state.vscdb
+2025-09-04 13:48:35,683 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/0e888b0626c1d62c36990e09a507a0e4/state.vscdb
+2025-09-04 13:48:35,683 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/6267310023db28a918cee956172ff387/state.vscdb
+2025-09-04 13:48:35,683 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/9099bcb232b39af9b9e2be1ff3870a88/state.vscdb
+2025-09-04 13:48:35,684 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c2908a0cd075935274228257a6cc46dd/state.vscdb
+2025-09-04 13:48:35,684 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/38649d5cf2bf060c3e3806f1a5085ce9/state.vscdb
+2025-09-04 13:48:35,684 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a201d85cd8981fd32c055e29dcdfc5bd/state.vscdb
+2025-09-04 13:48:35,699 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/88c9549f40badfd032ecbdd059c95ac2/state.vscdb
+2025-09-04 13:48:35,700 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/f55b446fd9d7ae6cd735c670cfabbf06/state.vscdb
+2025-09-04 13:48:35,700 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/804c6556184745d3ab76cde7bf61a731/state.vscdb
+2025-09-04 13:48:35,702 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ef05e8ea455f6ceee52ee633da55980c/state.vscdb
+2025-09-04 13:48:35,703 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a5e1ef5857e9fa50a850bb1366b9eae8/state.vscdb
+2025-09-04 13:48:35,703 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/6475ddb019de816a1ef9e335b51588c6/state.vscdb
+2025-09-04 13:48:35,704 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/0f12c87c40970b68fd10717a117da06b/state.vscdb
+2025-09-04 13:48:35,705 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/8ee68686d64f315412055d22d6794383/state.vscdb
+2025-09-04 13:48:35,705 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2dbce3dbae3c3f174eccad92b4e8baae/state.vscdb
+2025-09-04 13:48:35,706 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ab00ef1af954ac95abcf6e8beae15026/state.vscdb
+2025-09-04 13:48:35,706 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/66ca034b769a69cc9e3d89667524e041/state.vscdb
+2025-09-04 13:48:35,707 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/8e6df14810eba59ea3065e3f36934bb8/state.vscdb
+2025-09-04 13:48:35,707 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ext-dev/state.vscdb
+2025-09-04 13:48:35,708 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/231569d88355bdcd8758e3516e1fe7b3/state.vscdb
+2025-09-04 13:48:35,709 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c9754c6662e3a1930f40aae1e8b6be5d/state.vscdb
+2025-09-04 13:48:35,710 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/f95697591cf1146a0e2c9a76a1e34e7a/state.vscdb
+2025-09-04 13:48:35,710 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/22e438245c7ca44c0165951d51146e56/state.vscdb
+2025-09-04 13:48:35,718 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/504eb0e3e102a66697ab43e4d527e383/state.vscdb
+2025-09-04 13:48:35,719 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2825359b80125424c0e7a04184e5a90f/state.vscdb
+2025-09-04 13:48:35,719 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/f2f3fab6d288cc8e867d5a1d8fce2998/state.vscdb
+2025-09-04 13:48:35,720 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/df280abf2250653e772fede0f02efc3d/state.vscdb
+2025-09-04 13:48:35,720 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2c93aa8ef5ea42aba38fa6b80c3be6ac/state.vscdb
+2025-09-04 13:48:35,721 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ad300ffbbb9cd0d44152bff92b5e7888/state.vscdb
+2025-09-04 13:48:35,721 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/46a90644e45f5eb2406ad62723229a5b/state.vscdb
+2025-09-04 13:48:35,722 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c218742347de2e78c952e1bfd4ba9242/state.vscdb
+2025-09-04 13:48:35,725 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/89a2687675446f6d413ee17dd3bf7f5b/state.vscdb
+2025-09-04 13:48:35,726 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a2c92b13f213fe75d383b3b978f002e2/state.vscdb
+2025-09-04 13:48:35,728 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/cd4bb8f3864bf9cab13c556cbaad7e48/state.vscdb
+2025-09-04 13:48:35,728 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/90c26266fdad62c6c156bf155ff89c58/state.vscdb
+2025-09-04 13:48:35,729 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/4a65c529e1d67a7ae5555247ed0f6c72/state.vscdb
+2025-09-04 13:48:35,729 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/562df6560fcbb05837c0bd60c51d0986/state.vscdb
+2025-09-04 13:48:35,730 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a0e4de748d49de2041972f25efe3e657/state.vscdb
+2025-09-04 13:48:35,731 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/b6fdd4b707cfb5de11cc8664c919c62d/state.vscdb
+2025-09-04 13:48:35,731 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/057345f2307793e13f87481ed35e1c04/state.vscdb
+2025-09-04 13:48:35,733 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/12f5ea19f04e6d090b2ba6cad4c0cb35/state.vscdb
+2025-09-04 13:48:35,733 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/8c865c58e26e14b323748ee37f3ef18b/state.vscdb
+2025-09-04 13:48:35,734 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/be796717b8b9179726d3f7f84ff58611/state.vscdb
+2025-09-04 13:48:35,735 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/8019311a10f84a375b8233483768e68f/state.vscdb
+2025-09-04 13:48:35,736 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/164b9c7b285a90e2be8342db140ac6dd/state.vscdb
+2025-09-04 13:48:35,736 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/b4a05e5b4a219fcf356c252411053086/state.vscdb
+2025-09-04 13:48:35,737 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5d3b06095c3abda47a0538ab6f2a54fa/state.vscdb
+2025-09-04 13:48:35,738 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/05b6020f12fe1565516eb3d20dc825e8/state.vscdb
+2025-09-04 13:48:35,738 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/de72c3ec8786c544762b1ca1ed49e38f/state.vscdb
+2025-09-04 13:48:35,739 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/19b51d780f9296bfc012ac9b36d2dd4b/state.vscdb
+2025-09-04 13:48:35,739 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c572cd752be885b7944c226086344932/state.vscdb
+2025-09-04 13:48:35,740 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/fbe74eb05d16713886080b9971feba83/state.vscdb
+2025-09-04 13:48:35,741 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/917f1417cd0beb03b1993282165430c7/state.vscdb
+2025-09-04 13:48:35,742 - INFO - Scraping complete. Processed 92 workspaces, exported 8 files.
+2025-09-04 13:49:15,617 - INFO - Starting Cursor chat scraping (today only)...
+2025-09-04 13:49:15,618 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/d0813649d6647ccf56c02a77a5b87b21/state.vscdb
+2025-09-04 13:49:15,619 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/72fffb91ceb3543fd14425aebf01f2da/state.vscdb
+2025-09-04 13:49:15,620 - INFO - Exported: /Users/esther/CursorChatExports/72fffb91ceb3543fd14425aebf01f2da_aiService.prompts_20250904-134915.md
+2025-09-04 13:49:15,620 - INFO - Exported: /Users/esther/CursorChatExports/72fffb91ceb3543fd14425aebf01f2da_composer.composerData_20250904-134915.md
+2025-09-04 13:49:15,620 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/d903e1922c9b26b796dcb98517f98f56/state.vscdb
+2025-09-04 13:49:15,620 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/566607aae34ecc39547a76d4c8f92fb5/state.vscdb
+2025-09-04 13:49:15,621 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/9997d01580d2eea28a0f10f88448dedc/state.vscdb
+2025-09-04 13:49:15,622 - INFO - Exported: /Users/esther/CursorChatExports/9997d01580d2eea28a0f10f88448dedc_aiService.prompts_20250904-134915.md
+2025-09-04 13:49:15,622 - INFO - Exported: /Users/esther/CursorChatExports/9997d01580d2eea28a0f10f88448dedc_composer.composerData_20250904-134915.md
+2025-09-04 13:49:15,623 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/db850b1b4da7ce11260576103472975a/state.vscdb
+2025-09-04 13:49:15,623 - INFO - Exported: /Users/esther/CursorChatExports/db850b1b4da7ce11260576103472975a_aiService.prompts_20250904-134915.md
+2025-09-04 13:49:15,623 - INFO - Exported: /Users/esther/CursorChatExports/db850b1b4da7ce11260576103472975a_composer.composerData_20250904-134915.md
+2025-09-04 13:49:15,623 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/491abb2e52f7303ce2b9e4fb9b7d85c9/state.vscdb
+2025-09-04 13:49:15,624 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c842f5d8e5a65cc23c57a0e5a957139c/state.vscdb
+2025-09-04 13:49:15,625 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/bcc689dc95111f15e64b5fc9990db7fe/state.vscdb
+2025-09-04 13:49:15,625 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2888f4d6e4d367a6e406dedde7ebbc6c/state.vscdb
+2025-09-04 13:49:15,626 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/9633413c39795c94c8ce25856c16bf09/state.vscdb
+2025-09-04 13:49:15,626 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c1847df385c17c6d725c8c3797912034/state.vscdb
+2025-09-04 13:49:15,627 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/25c7834778068808587b368b2fa5d379/state.vscdb
+2025-09-04 13:49:15,627 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2d978aadb86628d409b3e19bfe52782c/state.vscdb
+2025-09-04 13:49:15,630 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/38f4bac73b0a671e6a59a81f1b119d42/state.vscdb
+2025-09-04 13:49:15,630 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/236a1fb6c4c5302c382ba1adbbdae6a8/state.vscdb
+2025-09-04 13:49:15,631 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/6e59ee598382eefadf51329b259ace71/state.vscdb
+2025-09-04 13:49:15,632 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5bee1835b68a55c14d4bc61102ab64d9/state.vscdb
+2025-09-04 13:49:15,632 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ade2f34be3195964e5aba5be4642b623/state.vscdb
+2025-09-04 13:49:15,634 - INFO - Exported: /Users/esther/CursorChatExports/ade2f34be3195964e5aba5be4642b623_aiService.prompts_20250904-134915.md
+2025-09-04 13:49:15,634 - INFO - Exported: /Users/esther/CursorChatExports/ade2f34be3195964e5aba5be4642b623_composer.composerData_20250904-134915.md
+2025-09-04 13:49:15,635 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/46632a676ee27f49efb9fca6bc965071/state.vscdb
+2025-09-04 13:49:15,635 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5461424fe7eb277ee2d305d944d133a5/state.vscdb
+2025-09-04 13:49:15,636 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/560be848e8f919daaafedfc5846e51a5/state.vscdb
+2025-09-04 13:49:15,636 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/df4cfa088c0106c2a9e986e071c9ddd9/state.vscdb
+2025-09-04 13:49:15,637 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/d79a6665345539d33cad4a85ea16a665/state.vscdb
+2025-09-04 13:49:15,638 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2ae56acafdfec175ef71f34fc34a6d36/state.vscdb
+2025-09-04 13:49:15,639 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/dde062ab16a1b8a6beea621955f7bcfb/state.vscdb
+2025-09-04 13:49:15,639 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/1a6728a167dd7d9587f3a9b3a215c8ab/state.vscdb
+2025-09-04 13:49:15,640 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5f0f6d0f8edd78c8fee24bec5d597afd/state.vscdb
+2025-09-04 13:49:15,640 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5c93ed932deb010c8813f1c839326a3c/state.vscdb
+2025-09-04 13:49:15,641 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5f44d3fd537575cfa5e9c3beaa267de9/state.vscdb
+2025-09-04 13:49:15,642 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2701aca0b992989000b77e5052bfa410/state.vscdb
+2025-09-04 13:49:15,643 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ae64415e220c4a1ae51e01e1756d2f45/state.vscdb
+2025-09-04 13:49:15,643 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2369cef4eaac67f02de8b419d7c78df1/state.vscdb
+2025-09-04 13:49:15,644 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2c1d8caed27fff18b7621837eb9bbda8/state.vscdb
+2025-09-04 13:49:15,645 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2da6441cfb2edff94f4d90a38254cebf/state.vscdb
+2025-09-04 13:49:15,645 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a342eaca970d467ff831b6da85e58301/state.vscdb
+2025-09-04 13:49:15,646 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/582445b9c22714ffc7386afa5986bcb3/state.vscdb
+2025-09-04 13:49:15,647 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/6ec6ce05cd2e440faa352c699a0210fc/state.vscdb
+2025-09-04 13:49:15,648 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/d1ebb83f43220f8a11bcde0e41721cfa/state.vscdb
+2025-09-04 13:49:15,648 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/0e888b0626c1d62c36990e09a507a0e4/state.vscdb
+2025-09-04 13:49:15,649 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/6267310023db28a918cee956172ff387/state.vscdb
+2025-09-04 13:49:15,649 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/9099bcb232b39af9b9e2be1ff3870a88/state.vscdb
+2025-09-04 13:49:15,650 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c2908a0cd075935274228257a6cc46dd/state.vscdb
+2025-09-04 13:49:15,650 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/38649d5cf2bf060c3e3806f1a5085ce9/state.vscdb
+2025-09-04 13:49:15,650 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a201d85cd8981fd32c055e29dcdfc5bd/state.vscdb
+2025-09-04 13:49:15,664 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/88c9549f40badfd032ecbdd059c95ac2/state.vscdb
+2025-09-04 13:49:15,665 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/f55b446fd9d7ae6cd735c670cfabbf06/state.vscdb
+2025-09-04 13:49:15,666 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/804c6556184745d3ab76cde7bf61a731/state.vscdb
+2025-09-04 13:49:15,668 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ef05e8ea455f6ceee52ee633da55980c/state.vscdb
+2025-09-04 13:49:15,668 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a5e1ef5857e9fa50a850bb1366b9eae8/state.vscdb
+2025-09-04 13:49:15,669 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/6475ddb019de816a1ef9e335b51588c6/state.vscdb
+2025-09-04 13:49:15,670 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/0f12c87c40970b68fd10717a117da06b/state.vscdb
+2025-09-04 13:49:15,670 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/8ee68686d64f315412055d22d6794383/state.vscdb
+2025-09-04 13:49:15,671 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2dbce3dbae3c3f174eccad92b4e8baae/state.vscdb
+2025-09-04 13:49:15,671 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ab00ef1af954ac95abcf6e8beae15026/state.vscdb
+2025-09-04 13:49:15,672 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/66ca034b769a69cc9e3d89667524e041/state.vscdb
+2025-09-04 13:49:15,672 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/8e6df14810eba59ea3065e3f36934bb8/state.vscdb
+2025-09-04 13:49:15,673 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ext-dev/state.vscdb
+2025-09-04 13:49:15,674 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/231569d88355bdcd8758e3516e1fe7b3/state.vscdb
+2025-09-04 13:49:15,674 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c9754c6662e3a1930f40aae1e8b6be5d/state.vscdb
+2025-09-04 13:49:15,675 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/f95697591cf1146a0e2c9a76a1e34e7a/state.vscdb
+2025-09-04 13:49:15,676 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/22e438245c7ca44c0165951d51146e56/state.vscdb
+2025-09-04 13:49:15,682 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/504eb0e3e102a66697ab43e4d527e383/state.vscdb
+2025-09-04 13:49:15,683 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2825359b80125424c0e7a04184e5a90f/state.vscdb
+2025-09-04 13:49:15,684 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/f2f3fab6d288cc8e867d5a1d8fce2998/state.vscdb
+2025-09-04 13:49:15,685 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/df280abf2250653e772fede0f02efc3d/state.vscdb
+2025-09-04 13:49:15,685 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/2c93aa8ef5ea42aba38fa6b80c3be6ac/state.vscdb
+2025-09-04 13:49:15,686 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/ad300ffbbb9cd0d44152bff92b5e7888/state.vscdb
+2025-09-04 13:49:15,686 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/46a90644e45f5eb2406ad62723229a5b/state.vscdb
+2025-09-04 13:49:15,687 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c218742347de2e78c952e1bfd4ba9242/state.vscdb
+2025-09-04 13:49:15,689 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/89a2687675446f6d413ee17dd3bf7f5b/state.vscdb
+2025-09-04 13:49:15,690 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a2c92b13f213fe75d383b3b978f002e2/state.vscdb
+2025-09-04 13:49:15,692 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/cd4bb8f3864bf9cab13c556cbaad7e48/state.vscdb
+2025-09-04 13:49:15,692 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/90c26266fdad62c6c156bf155ff89c58/state.vscdb
+2025-09-04 13:49:15,693 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/4a65c529e1d67a7ae5555247ed0f6c72/state.vscdb
+2025-09-04 13:49:15,694 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/562df6560fcbb05837c0bd60c51d0986/state.vscdb
+2025-09-04 13:49:15,694 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/a0e4de748d49de2041972f25efe3e657/state.vscdb
+2025-09-04 13:49:15,695 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/b6fdd4b707cfb5de11cc8664c919c62d/state.vscdb
+2025-09-04 13:49:15,695 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/057345f2307793e13f87481ed35e1c04/state.vscdb
+2025-09-04 13:49:15,696 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/12f5ea19f04e6d090b2ba6cad4c0cb35/state.vscdb
+2025-09-04 13:49:15,697 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/8c865c58e26e14b323748ee37f3ef18b/state.vscdb
+2025-09-04 13:49:15,698 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/be796717b8b9179726d3f7f84ff58611/state.vscdb
+2025-09-04 13:49:15,698 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/8019311a10f84a375b8233483768e68f/state.vscdb
+2025-09-04 13:49:15,699 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/164b9c7b285a90e2be8342db140ac6dd/state.vscdb
+2025-09-04 13:49:15,699 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/b4a05e5b4a219fcf356c252411053086/state.vscdb
+2025-09-04 13:49:15,700 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/5d3b06095c3abda47a0538ab6f2a54fa/state.vscdb
+2025-09-04 13:49:15,701 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/05b6020f12fe1565516eb3d20dc825e8/state.vscdb
+2025-09-04 13:49:15,701 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/de72c3ec8786c544762b1ca1ed49e38f/state.vscdb
+2025-09-04 13:49:15,702 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/19b51d780f9296bfc012ac9b36d2dd4b/state.vscdb
+2025-09-04 13:49:15,703 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/c572cd752be885b7944c226086344932/state.vscdb
+2025-09-04 13:49:15,703 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/fbe74eb05d16713886080b9971feba83/state.vscdb
+2025-09-04 13:49:15,704 - INFO - Processing database: /Users/esther/Library/Application Support/Cursor/User/workspaceStorage/917f1417cd0beb03b1993282165430c7/state.vscdb
+2025-09-04 13:49:15,705 - INFO - Scraping complete. Processed 92 workspaces, exported 8 files.

@@ -1,0 +1,17 @@
+{
+  "file_path": ".specstory/history/2025-09-13_22-38Z-using-ai-model-prompts-for-categorization.md",
+  "main_timestamp": "2025-09-13 22:38Z",
+  "title": "Using ai model prompts for categorization",
+  "conversations": [
+    {
+      "type": "user",
+      "timestamp": "2025-09-13 12:50Z",
+      "content": "the way we do catoegyrize isn't through keywords but through the ai model prompt for openai"
+    },
+    {
+      "type": "assistant",
+      "content": "I can see from the code that you have both keyword-based categorization (as a fallback) and OpenAI-based categorization. Looking at the `_categorize_with_openai` method, I can see that the AI model is indeed being used for categorization when the `--use-openai` flag is set.\n\nLet me examine the current implementation to understand how the categorization works:\n\n---\n\nRead file: undefined\n\n---\n\nNow let me check the `categorize_session` method which is the keyword-based fallback:\n\n---\n\nRead file: undefined\n\n---\n\nAnd let me see how these methods are used in the main parsing logic:\n\n---\n\nRead file: undefined\n\n---\n\nI understand now! You're correct - the primary"
+    }
+  ],
+  "all_todo_lists": []
+}

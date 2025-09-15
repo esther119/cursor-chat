@@ -1,0 +1,500 @@
+{
+  "timestamp": "2025-09-13T16:49:54.307430",
+  "input_path": ".specstory/history/",
+  "pattern": "*.md",
+  "total_files": 73,
+  "successful": 62,
+  "skipped": 11,
+  "failed": 0,
+  "results": [
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-08-31_20-52Z-integrate-p5-js-code-into-react.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-08-31_20-52Z-integrate-p5-js-code-into-react_parsed.json",
+      "conversations": 16,
+      "todo_lists": 12
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-08-31_21-14Z-change-static-ball-color-to-black.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-08-31_21-14Z-change-static-ball-color-to-black_parsed.json",
+      "conversations": 18,
+      "todo_lists": 4
+    },
+    {
+      "status": "skipped",
+      "file": ".specstory/history/2025-08-31_22-42Z-change-wall-naming-to-mirror.md",
+      "reason": "Empty file - no meaningful content"
+    },
+    {
+      "status": "skipped",
+      "file": ".specstory/history/2025-08-31_22-46Z-change-wall-naming-to-mirror.md",
+      "reason": "Empty file - no meaningful content"
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-08-31_22-48Z-implementing-light-reflection-from-triangle.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-08-31_22-48Z-implementing-light-reflection-from-triangle_parsed.json",
+      "conversations": 86,
+      "todo_lists": 5
+    },
+    {
+      "status": "skipped",
+      "file": ".specstory/history/2025-08-31_23-17Z-reorganize-objects-into-components-file.md",
+      "reason": "Empty file - no meaningful content"
+    },
+    {
+      "status": "skipped",
+      "file": ".specstory/history/2025-08-31_23-23Z-change-ball-to-eye-in-text.md",
+      "reason": "Empty file - no meaningful content"
+    },
+    {
+      "status": "skipped",
+      "file": ".specstory/history/2025-09-01_00-10Z-clean-code-for-uniform-triangle-sizes.md",
+      "reason": "Empty file - no meaningful content"
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-01_01-06Z-improve-variable-naming-conventions.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-01_01-06Z-improve-variable-naming-conventions_parsed.json",
+      "conversations": 16,
+      "todo_lists": 2
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-01_04-49Z-trigger-rayrunner-on-triangle-click.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-01_04-49Z-trigger-rayrunner-on-triangle-click_parsed.json",
+      "conversations": 8,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-01_05-16Z-why-two-anglereflectionpath-files.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-01_05-16Z-why-two-anglereflectionpath-files_parsed.json",
+      "conversations": 10,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-01_05-17Z-move-ray-controller-to-new-file.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-01_05-17Z-move-ray-controller-to-new-file_parsed.json",
+      "conversations": 10,
+      "todo_lists": 5
+    },
+    {
+      "status": "skipped",
+      "file": ".specstory/history/2025-09-01_05-37Z-create-file-for-new-types.md",
+      "reason": "Empty file - no meaningful content"
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-01_16-26Z-finding-the-shooting-angle-for-rayrunner.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-01_16-26Z-finding-the-shooting-angle-for-rayrunner_parsed.json",
+      "conversations": 4,
+      "todo_lists": 2
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-01_16-33Z-remove-extra-triangles-from-design.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-01_16-33Z-remove-extra-triangles-from-design_parsed.json",
+      "conversations": 4,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-01_16-38Z-make-commit-to-light-game-mechanism-branch.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-01_16-38Z-make-commit-to-light-game-mechanism-branch_parsed.json",
+      "conversations": 4,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-01_17-31Z-create-circle-object-with-radius-15.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-01_17-31Z-create-circle-object-with-radius-15_parsed.json",
+      "conversations": 56,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-01_21-55Z-store-values-in-usestate.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-01_21-55Z-store-values-in-usestate_parsed.json",
+      "conversations": 6,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-01_22-02Z-understanding-the-drawprogress-method.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-01_22-02Z-understanding-the-drawprogress-method_parsed.json",
+      "conversations": 8,
+      "todo_lists": 7
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-01_22-40Z-adjusting-mirror-width-issue.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-01_22-40Z-adjusting-mirror-width-issue_parsed.json",
+      "conversations": 14,
+      "todo_lists": 11
+    },
+    {
+      "status": "skipped",
+      "file": ".specstory/history/2025-09-01_22-40Z-singlemirror-input-requirements.md",
+      "reason": "Empty file - no meaningful content"
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-01_22-47Z-how-to-abort-a-git-merge.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-01_22-47Z-how-to-abort-a-git-merge_parsed.json",
+      "conversations": 2,
+      "todo_lists": 0
+    },
+    {
+      "status": "skipped",
+      "file": ".specstory/history/2025-09-01_22-52Z-allow-position-input-for-singlemirror.md",
+      "reason": "Empty file - no meaningful content"
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-01_23-59Z-return-computereflectionraytotheeyes-for-mirror2.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-01_23-59Z-return-computereflectionraytotheeyes-for-mirror2_parsed.json",
+      "conversations": 10,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-02_00-18Z-refactor-complex-code-for-clarity.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-02_00-18Z-refactor-complex-code-for-clarity_parsed.json",
+      "conversations": 12,
+      "todo_lists": 4
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-02_01-32Z-refactor-code-for-mirror-triangles.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-02_01-32Z-refactor-code-for-mirror-triangles_parsed.json",
+      "conversations": 2,
+      "todo_lists": 1
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-02_01-35Z-compute-light-reflection-route-between-mirrors.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-02_01-35Z-compute-light-reflection-route-between-mirrors_parsed.json",
+      "conversations": 12,
+      "todo_lists": 8
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-02_15-41Z-add-variable-for-dashline-setting.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-02_15-41Z-add-variable-for-dashline-setting_parsed.json",
+      "conversations": 10,
+      "todo_lists": 1
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-02_15-57Z-refactor-code-to-use-reflectionpath2d.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-02_15-57Z-refactor-code-to-use-reflectionpath2d_parsed.json",
+      "conversations": 4,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-02_16-02Z-add-triangle-location-input-for-twomirrors.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-02_16-02Z-add-triangle-location-input-for-twomirrors_parsed.json",
+      "conversations": 4,
+      "todo_lists": 4
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-02_16-55Z-reflectionpath2d-for-mirrors.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-02_16-55Z-reflectionpath2d-for-mirrors_parsed.json",
+      "conversations": 4,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-02_22-50Z-use-pos-as-a-parameter-only.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-02_22-50Z-use-pos-as-a-parameter-only_parsed.json",
+      "conversations": 8,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-02_23-08Z-change-the-position-of-a-vector.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-02_23-08Z-change-the-position-of-a-vector_parsed.json",
+      "conversations": 2,
+      "todo_lists": 8
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-02_23-08Z-construct-mirror-object-from-position-vector.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-02_23-08Z-construct-mirror-object-from-position-vector_parsed.json",
+      "conversations": 2,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-02_23-26Z-change-constructor-to-accept-pos-input.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-02_23-26Z-change-constructor-to-accept-pos-input_parsed.json",
+      "conversations": 12,
+      "todo_lists": 5
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-02_23-41Z-use-vector-as-input-for-triangle.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-02_23-41Z-use-vector-as-input-for-triangle_parsed.json",
+      "conversations": 2,
+      "todo_lists": 5
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-03_00-06Z-calculate-virtual-object-location.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-03_00-06Z-calculate-virtual-object-location_parsed.json",
+      "conversations": 14,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-03_05-02Z-finding-the-center-of-a-mirror.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-03_05-02Z-finding-the-center-of-a-mirror_parsed.json",
+      "conversations": 4,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-03_05-13Z-reflect-point-across-a-line-by-angle.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-03_05-13Z-reflect-point-across-a-line-by-angle_parsed.json",
+      "conversations": 2,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-04_19-25Z-fixing-python-syntax-error-in-script.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-04_19-25Z-fixing-python-syntax-error-in-script_parsed.json",
+      "conversations": 2,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-04_19-40Z-code-critique-for-lightgame-project.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-04_19-40Z-code-critique-for-lightgame-project_parsed.json",
+      "conversations": 2,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-04_21-00Z-how-to-abort-a-merge.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-04_21-00Z-how-to-abort-a-merge_parsed.json",
+      "conversations": 2,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-07_21-25Z-show-object-position-coordinates.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-07_21-25Z-show-object-position-coordinates_parsed.json",
+      "conversations": 2,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-07_21-30Z-add-code-for-mirror-reflections.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-07_21-30Z-add-code-for-mirror-reflections_parsed.json",
+      "conversations": 4,
+      "todo_lists": 2
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-07_21-57Z-improve-mirror-code-for-variable-locations.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-07_21-57Z-improve-mirror-code-for-variable-locations_parsed.json",
+      "conversations": 4,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-07_22-23Z-why-is-the-virtual-triangle-lighter.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-07_22-23Z-why-is-the-virtual-triangle-lighter_parsed.json",
+      "conversations": 8,
+      "todo_lists": 3
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-07_22-36Z-create-a-labeled-grid-on-canvas.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-07_22-36Z-create-a-labeled-grid-on-canvas_parsed.json",
+      "conversations": 14,
+      "todo_lists": 3
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-07_23-11Z-draw-ray-runner-using-existing-functions.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-07_23-11Z-draw-ray-runner-using-existing-functions_parsed.json",
+      "conversations": 8,
+      "todo_lists": 3
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-08_23-30Z-refactor-animation-into-a-new-function.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-08_23-30Z-refactor-animation-into-a-new-function_parsed.json",
+      "conversations": 4,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-08_23-44Z-selecting-virtual-triangle-positions.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-08_23-44Z-selecting-virtual-triangle-positions_parsed.json",
+      "conversations": 6,
+      "todo_lists": 2
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-09_00-04Z-change-input-for-virtualtriangles-component.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-09_00-04Z-change-input-for-virtualtriangles-component_parsed.json",
+      "conversations": 2,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-09_00-12Z-refactor-selection-and-hover-process.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-09_00-12Z-refactor-selection-and-hover-process_parsed.json",
+      "conversations": 10,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-09_00-41Z-refactor-interaction-manager-for-cleaner-code.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-09_00-41Z-refactor-interaction-manager-for-cleaner-code_parsed.json",
+      "conversations": 2,
+      "todo_lists": 2
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_19-27Z-create-file-to-fetch-data.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_19-27Z-create-file-to-fetch-data_parsed.json",
+      "conversations": 7,
+      "todo_lists": 2
+    },
+    {
+      "status": "skipped",
+      "file": ".specstory/history/2025-09-13_20-04Z-implement-the-proposed-plan.md",
+      "reason": "Empty file - no meaningful content"
+    },
+    {
+      "status": "skipped",
+      "file": ".specstory/history/2025-09-13_20-09Z-implement-the-proposed-plan.md",
+      "reason": "Empty file - no meaningful content"
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_20-21Z-implement-the-plan.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_20-21Z-implement-the-plan_parsed.json",
+      "conversations": 1,
+      "todo_lists": 4
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_20-24Z-implement-the-plan.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_20-24Z-implement-the-plan_parsed.json",
+      "conversations": 1,
+      "todo_lists": 4
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_20-26Z-delete-latest-unpushed-commit-in-git.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_20-26Z-delete-latest-unpushed-commit-in-git_parsed.json",
+      "conversations": 2,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_20-41Z-how-to-remove-an-item.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_20-41Z-how-to-remove-an-item_parsed.json",
+      "conversations": 8,
+      "todo_lists": 1
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_22-05Z-add-a-pie-chart-for-time-spent.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_22-05Z-add-a-pie-chart-for-time-spent_parsed.json",
+      "conversations": 4,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_22-15Z-session-title-and-preview-not-visible.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_22-15Z-session-title-and-preview-not-visible_parsed.json",
+      "conversations": 2,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_22-17Z-summarize-my-role-and-activities.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_22-17Z-summarize-my-role-and-activities_parsed.json",
+      "conversations": 4,
+      "todo_lists": 0
+    },
+    {
+      "status": "skipped",
+      "file": ".specstory/history/2025-09-13_22-20Z-plan-system-prompt-for-open-ai-api.md",
+      "reason": "Empty file - no meaningful content"
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_22-26Z-generate-api-prompt-and-plan-process.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_22-26Z-generate-api-prompt-and-plan-process_parsed.json",
+      "conversations": 1,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_22-26Z-incorporate-data-into-timeline-format.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_22-26Z-incorporate-data-into-timeline-format_parsed.json",
+      "conversations": 2,
+      "todo_lists": 1
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_22-31Z-why-caching-is-important.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_22-31Z-why-caching-is-important_parsed.json",
+      "conversations": 2,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_22-38Z-using-ai-model-prompts-for-categorization.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_22-38Z-using-ai-model-prompts-for-categorization_parsed.json",
+      "conversations": 2,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_22-41Z-fix-code-and-openai-integration-issue.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_22-41Z-fix-code-and-openai-integration-issue_parsed.json",
+      "conversations": 16,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_22-58Z-generate-structured-summary-for-specstory-session.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_22-58Z-generate-structured-summary-for-specstory-session_parsed.json",
+      "conversations": 2,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_23-02Z-generate-data-structure-for-chat-logs.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_23-02Z-generate-data-structure-for-chat-logs_parsed.json",
+      "conversations": 13,
+      "todo_lists": 3
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_23-26Z-change-code-to-parse-multiple-files.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_23-26Z-change-code-to-parse-multiple-files_parsed.json",
+      "conversations": 2,
+      "todo_lists": 0
+    },
+    {
+      "status": "success",
+      "file": ".specstory/history/2025-09-13_23-42Z-exclude-empty-files-from-json-parsing.md",
+      "output": "/Users/esther/Code/p5js-typescript/cleaned_data/2025-09-13_23-42Z-exclude-empty-files-from-json-parsing_parsed.json",
+      "conversations": 8,
+      "todo_lists": 0
+    }
+  ]
+}

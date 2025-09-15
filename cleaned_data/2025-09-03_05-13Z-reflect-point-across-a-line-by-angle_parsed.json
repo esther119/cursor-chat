@@ -1,0 +1,17 @@
+{
+  "file_path": ".specstory/history/2025-09-03_05-13Z-reflect-point-across-a-line-by-angle.md",
+  "main_timestamp": "2025-09-03 05:13Z",
+  "title": "Reflect point across a line by angle",
+  "conversations": [
+    {
+      "type": "user",
+      "timestamp": "2025-09-02 06:23Z",
+      "content": "I want to use degree: \n\n/** Reflect point p across a line that passes through q with direction angle phiDeg (degrees from +x, CCW). */\nfunction reflectPointAcrossAngle(p: V2, q: V2, phiDeg: number): V2 {\n  const phi = (phiDeg * Math.PI) / 180;\n  const u: V2 = [Math.cos(phi), Math.sin(phi)];     // unit direction of the mirror line\n  const d = sub(p, q);                               // vector from line point to p\n  const k = dot(d, u);                               // scalar projection onto the line\n  const dPrime: V2 = [2 * k * u[0] - d[0], 2 * k * u[1] - d[1]]; // reflect: 2*parallel - d\n  return add(q, dPrime);\n}"
+    },
+    {
+      "type": "assistant",
+      "content": "I'll help you update the `reflectPointAcrossAngle` function to use degrees instead of radians. Let me first read the current file to see the full context and then make the change.\n\n---\n\nRead file: undefined\n\n---\n\nNow I'll update the function to use degrees as you specified. I'll also need to check where this function is used to ensure the change is compatible with the rest of the codebase.\n\n---\n\n---\n\nI can see that `reflectPointAcrossAngle` is only used once internally in the same file, where it's called with `mirror.angle`. Let me check what units `mirror.angle` uses to ensure we handle the conversion properly.\n\n---\n\nRead file: undefined\n\n---\n\nI can see that the Mirror class uses degrees (default 180° for a vertical mirror), and p5.js typically uses radians for its rotate function, but the angle property is stored in degrees based on the default value and comment. Let me check how the mirror angle is set to be certain.\n\n---\n\n---\n\nPerfect! I can see that the Mirror is being created with degree values (like `45` and `180`), confirming that the mirror angle is stored in degrees. Now I'll update the `reflectPointAcrossAngle` function to accept degrees as you requested:\n\n```typescript:src/components/geometry/virtualObject.ts\n// ... existing code ...\n/** Reflect point p across a line that passes through q with direction angle phiDeg (degrees from +x, CCW). */\nexport function reflectPointAcrossAngle(p: V2, q: V2, phiDeg: number): V2 {\n  const phi = (phiDeg * Math.PI) / 180;\n  const u: V2 = [Math.cos(phi), Math.sin(phi)];     // unit direction of the mirror line\n  const d = sub(p, q);                               // vector from line point to p\n  const k = dot(d, u);                               // scalar projection onto the line\n  const dPrime: V2 = [2 * k * u[0] - d[0], 2 * k * u[1] - d[1]]; // reflect: 2*parallel - d\n  return add(q, dPrime);\n}\n// ... existing code ...\n```\n\nThis change:\n1. Updates the parameter name from `phi` to `phiDeg` to clearly indicate it expects degrees\n2. Updates the JSDoc comment to specify degrees and the direction convention\n3. Converts degrees to radians internally using `(phiDeg * Math.PI) / 180`\n4. Removes the console.log statement\n5. Adds clearer comments explaining each step\n\nThe existing usage in `calculateVirtualObjectPosition` will continue to work correctly since `mirror.angle` is already in degrees."
+    }
+  ],
+  "all_todo_lists": []
+}

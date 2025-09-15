@@ -1,0 +1,17 @@
+{
+  "file_path": ".specstory/history/2025-09-01_22-47Z-how-to-abort-a-git-merge.md",
+  "main_timestamp": "2025-09-01 22:47Z",
+  "title": "How to abort a git merge",
+  "conversations": [
+    {
+      "type": "user",
+      "timestamp": "2025-09-01 17:34Z",
+      "content": "Auto-merging src/App.tsx\nCONFLICT (content): Merge conflict in src/App.tsx\nAuto-merging src/SingleMirror.tsx\nCONFLICT (add/add): Merge conflict in src/SingleMirror.tsx\nAuto-merging src/constants.ts\nCONFLICT (add/add): Merge conflict in src/constants.ts\nAutomatic merge failed; fix conflicts and then commit the result.\nesther@Esthers-MacBook-Pro-2 p5js-typescript % git abort\ngit: 'abort' is not a git command. See 'git --help'.\n\nhow to abort git merge"
+    },
+    {
+      "type": "assistant",
+      "content": "To abort a git merge, you need to use:\n\n```bash\ngit merge --abort\n```\n\nThis will cancel the merge operation and return your repository to the state it was in before you started the merge. All the merge conflicts will be discarded and you'll be back to your original branch state.\n\nThe command you tried (`git abort`) isn't a valid git command - you need the full `git merge --abort` command."
+    }
+  ],
+  "all_todo_lists": []
+}

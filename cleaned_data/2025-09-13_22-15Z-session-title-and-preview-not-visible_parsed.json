@@ -1,0 +1,17 @@
+{
+  "file_path": ".specstory/history/2025-09-13_22-15Z-session-title-and-preview-not-visible.md",
+  "main_timestamp": "2025-09-13 22:15Z",
+  "title": "Session title and preview not visible",
+  "conversations": [
+    {
+      "type": "user",
+      "timestamp": "2025-09-13 12:50Z",
+      "content": "I don't see my session.title and session.preview when I hover"
+    },
+    {
+      "type": "assistant",
+      "content": "---\n\nI'll inspect the `Timeline` component, its CSS, the tooltip component, and the JSON data to see how hover content is rendered and why `session.title` and `session.preview` might not appear.\n\n---\n\nRead file: undefined\n\n---\n\nRead file: undefined\n\n---\n\nRead file: undefined\n\n---\n\nRead file: undefined\n\n---\n\n---\n\nI'll adjust the timeline bar CSS to allow tooltips to render outside the bar by changing its overflow from hidden to visible, which should make `session.title` and `session.preview` appear on hover.\n\n---\n\n---\n\n---\n\nI found the issue: the tooltip was being clipped by the timeline bar’s overflow rule. I changed it so tooltips can render outside the bar.\n\n```81:90:/Users/esther/Code/p5js-typescript/src/components/Timeline.css\n.timeline-bar {\n  display: flex;\n  width: 100%;\n  height: 80px;\n  background: white;\n  border-radius: 8px;\n  overflow: visible; // was hidden\n  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);\n  position: relative;\n}\n```\n\n- Please refresh and hover a segment; you should now see the `session.title` and `session.preview`.\n\nI updated the timeline CSS to set `overflow: visible` on `.timeline-bar`, allowing the tooltip (`session.title` and `session.preview`) to display on hover."
+    }
+  ],
+  "all_todo_lists": []
+}

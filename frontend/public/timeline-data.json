@@ -1,0 +1,90 @@
+{
+  "sessions": [
+    {
+      "category": "feature",
+      "title": "Add A Pie Chart For Time Spent",
+      "startTime": "2025-09-13T22:05:00Z",
+      "duration": 15,
+      "confidence": "high",
+      "filename": "2025-09-13_22-05Z-add-a-pie-chart-for-time-spent.md",
+      "preview": "Add a pie chart to visualize how time was spent in each category"
+    },
+    {
+      "category": "plan",
+      "title": "Generate API Prompt And Plan Process",
+      "startTime": "2025-09-13T22:26:00Z",
+      "duration": 5,
+      "confidence": "high",
+      "filename": "2025-09-13_22-26Z-generate-api-prompt-and-plan-process.md",
+      "preview": "Plan the system prompt for OpenAI API integration"
+    },
+    {
+      "category": "codegen",
+      "title": "Create File To Fetch Data",
+      "startTime": "2025-09-13T19:27:00Z",
+      "duration": 30,
+      "confidence": "high",
+      "filename": "2025-09-13_19-27Z-create-file-to-fetch-data.md",
+      "preview": "Create a new file to handle data fetching operations"
+    },
+    {
+      "category": "debug",
+      "title": "Fix Code And OpenAI Integration Issue",
+      "startTime": "2025-09-13T22:41:00Z",
+      "duration": 10,
+      "confidence": "high",
+      "filename": "2025-09-13_22-41Z-fix-code-and-openai-integration-issue.md",
+      "preview": "Debug and fix issues with OpenAI integration"
+    },
+    {
+      "category": "refactor",
+      "title": "Refactor Interaction Manager For Cleaner Code",
+      "startTime": "2025-09-09T00:41:00Z",
+      "duration": 25,
+      "confidence": "high",
+      "filename": "2025-09-09_00-41Z-refactor-interaction-manager-for-cleaner-code.md",
+      "preview": "Refactor the interaction manager to improve code organization"
+    }
+  ],
+  "totalDuration": 85,
+  "categories": {
+    "feature": {
+      "duration": 15,
+      "percentage": 17.6,
+      "sessions": 1,
+      "color": "#EC4899"
+    },
+    "plan": {
+      "duration": 5,
+      "percentage": 5.9,
+      "sessions": 1,
+      "color": "#3B82F6"
+    },
+    "codegen": {
+      "duration": 30,
+      "percentage": 35.3,
+      "sessions": 1,
+      "color": "#10B981"
+    },
+    "debug": {
+      "duration": 10,
+      "percentage": 11.8,
+      "sessions": 1,
+      "color": "#F59E0B"
+    },
+    "refactor": {
+      "duration": 25,
+      "percentage": 29.4,
+      "sessions": 1,
+      "color": "#8B5CF6"
+    }
+  },
+  "metadata": {
+    "generated": "2025-09-15T12:00:00Z",
+    "totalSessions": 5,
+    "timeRange": {
+      "start": "2025-09-09T00:41:00Z",
+      "end": "2025-09-13T22:41:00Z"
+    }
+  }
+}
